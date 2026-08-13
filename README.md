@@ -40,7 +40,7 @@
 ## Datalog Inspired Environments
 
 * [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) ⭐ 7,223 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve) ⭐ 377 | 🐛 5 | 📅 2024-06-26. Programming designed for humans.
-* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 290 | 🐛 203 | 🌐 Rust | 📅 2026-08-13. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
+* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 290 | 🐛 204 | 🌐 Rust | 📅 2026-08-13. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
 
 ## Debugging Tools
 
@@ -102,7 +102,7 @@
 
 ## Projectional Editors
 
-* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,652 | 🐛 7 | 🌐 JetBrains MPS | 📅 2026-08-12. Create your own Domain Specific Language.
+* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,652 | 🐛 7 | 🌐 JetBrains MPS | 📅 2026-08-13. Create your own Domain Specific Language.
 * Moonchild / [repo](https://github.com/harc/moonchild) ⭐ 202 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-29 / [🎥 5-minute highlight reel](https://vimeo.com/106578509) [🎥 15-minute demo of Moonchild](https://vimeo.com/106498564). It's a toolkit for experimenting with new kinds of programming interfaces. It's based on CodeMirror, a web-based text editor. Moonchild adds a framework which makes it easy to create plugins which modify and extend the source code presentation.
 * [ProjecturEd](http://projectured.org/) / [repo](https://github.com/projectured/projectured) ⚠️ Archived. General purpose projectional editor written in Common Lisp.
 * [Envision](https://www.pm.inf.ethz.ch/research/envision.html) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 97 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
@@ -138,7 +138,7 @@
 
 ## State machines/State charts
 
-* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,006 | 🐛 121 | 🌐 TypeScript | 📅 2026-08-13. State machines and statecharts for the modern web.
+* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,009 | 🐛 121 | 🌐 TypeScript | 📅 2026-08-13. State machines and statecharts for the modern web.
 * [InterState](http://interstate.from.so/) / [repo](https://github.com/soney/interstate) ⚠️ Archived / [🎥 video](https://www.youtube.com/watch?v=M--9jsuDZis) / [paper](http://from.so/p/interstate.pdf). InterState is a programming language and environment that addresses the challenges of writing and reusing user interface code. InterState represents interactive behaviors clearly and concisely using a combination of novel forms of state machines and constraints.
 * [Sketch.systems](https://sketch.systems). Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 
