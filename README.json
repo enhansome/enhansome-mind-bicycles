@@ -1,0 +1,694 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Eve",
+          "description": "/ repo / 🕰️ history. Programming designed for humans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-03-20T18:37:04Z",
+            "owner": "witheve",
+            "repo": "Eve",
+            "stars": 7223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mech lang",
+          "description": "/ repo. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:28:55Z",
+            "owner": "mech-lang",
+            "repo": "mech",
+            "stars": 290
+          }
+        }
+      ],
+      "title": "Datalog Inspired Environments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apparatus",
+          "description": "/ repo / 🎥 video. A hybrid graphics editor and programming environment for creating interactive diagrams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2023-06-30T02:44:35Z",
+            "owner": "cdglabs",
+            "repo": "apparatus",
+            "stars": 1052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sketch-n-sketch",
+          "description": "/ repo. Direct Manipulation Programming for HTML/SVG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elm",
+            "last_commit": "2024-06-02T12:14:57Z",
+            "owner": "ravichugh",
+            "repo": "sketch-n-sketch",
+            "stars": 568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dacein",
+          "description": "/ repo / article. Experimental creative coding IDE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-06T13:40:49Z",
+            "owner": "szymonkaliski",
+            "repo": "dacein",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vogo",
+          "description": "/ repo. An experimental direct manipulation interface for Turtle Graphics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-12T09:09:03Z",
+            "owner": "rbyte",
+            "repo": "Vogo",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Direct Manipulation Graphics Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Orca",
+          "description": "/ repo / 🎥 video. Orca is an esoteric programming language, designed to create procedural sequencers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-16T18:19:05Z",
+            "owner": "hundredrabbits",
+            "repo": "Orca",
+            "stars": 5061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BespokeSynth",
+          "description": "/ repo / 🎥 video / reddit. A new modular DAW for OSX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T00:43:21Z",
+            "owner": "awwbees",
+            "repo": "BespokeSynth",
+            "stars": 141
+          }
+        }
+      ],
+      "title": "Live programming environments for music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unison",
+          "description": "/ repo. Next-generation programming platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-12T17:19:18Z",
+            "owner": "unisonweb",
+            "repo": "unison",
+            "stars": 6700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPLD",
+          "description": "/ repo. IPLD is a set of standards and implementations for creating decentralized data-structures that are universally addressable and linkable. These structures will allow us to do for data what URLs and links did for HTML web pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nunjucks",
+            "last_commit": "2026-08-06T04:47:31Z",
+            "owner": "ipld",
+            "repo": "ipld",
+            "stars": 1351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chorus",
+          "description": "/ 🕰️ history / 🎥 video. Exploring the middle ground between spreadsheets and programming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-26T21:24:06Z",
+            "owner": "pel-daniel",
+            "repo": "mind-bicycles",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xoL",
+          "description": "/ repo / 📚 Concept design. Graphics based programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-14T20:49:50Z",
+            "owner": "lignx",
+            "repo": "xra9",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tinyland",
+          "description": "/ repo. A very, very small Dynamicland.",
+          "children": []
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MPS",
+          "description": "/ repo(mirror). Create your own Domain Specific Language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2026-08-12T21:04:18Z",
+            "owner": "JetBrains",
+            "repo": "MPS",
+            "stars": 1652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moonchild / repo",
+          "description": "/ 🎥 5-minute highlight reel 🎥 15-minute demo of Moonchild. It's a toolkit for experimenting with new kinds of programming interfaces. It's based on CodeMirror, a web-based text editor. Moonchild adds a framework which makes it easy to create plugins which modify and extend the source code presentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-29T11:59:02Z",
+            "owner": "harc",
+            "repo": "moonchild",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProjecturEd",
+          "description": "/ repo. General purpose projectional editor written in Common Lisp.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-17T08:49:58Z",
+            "owner": "projectured",
+            "repo": "projectured-lisp",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Envision",
+          "description": "/ repo. A next-generation IDE that makes programming more efficient.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-02-19T23:51:30Z",
+            "owner": "dimitar-asenov",
+            "repo": "Envision",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "Projectional Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lamdu",
+          "description": "/ repo. An open source live programming environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-09T07:57:14Z",
+            "owner": "lamdu",
+            "repo": "lamdu",
+            "stars": 1897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hazel",
+          "description": "/ repo. Live functional programming environment featuring typed holes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2026-08-13T03:47:16Z",
+            "owner": "hazelgrove",
+            "repo": "hazel",
+            "stars": 1125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fructure",
+          "description": "/ repo / 🎥 demo. A structured interaction engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2024-01-27T07:54:38Z",
+            "owner": "disconcision",
+            "repo": "fructure",
+            "stars": 506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Envision",
+          "description": "/ repo. A next-generation IDE that makes programming more efficient.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-02-19T23:51:30Z",
+            "owner": "dimitar-asenov",
+            "repo": "Envision",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syntactor",
+          "description": "/ repo. A JSON editor for editing data instead of syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-06-10T17:45:37Z",
+            "owner": "Gregoor",
+            "repo": "syntactor",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omni / repo",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-12-07T19:11:56Z",
+            "owner": "daniel-kun",
+            "repo": "omni",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundry / repo",
+          "description": ". Morte IDE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2025-04-03T01:21:58Z",
+            "owner": "serokell",
+            "repo": "foundry",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Semantic Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Guesstimate",
+          "description": "/ repo. A spreadsheet for things that aren’t certain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T06:03:54Z",
+            "owner": "getguesstimate",
+            "repo": "guesstimate-app",
+            "stars": 2367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mesh",
+          "description": "/ repo. JavaScript code editor that feels like a spreadsheet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-29T06:32:39Z",
+            "owner": "chrispsn",
+            "repo": "mesh",
+            "stars": 1559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Userland",
+          "description": "/ repo / 🎥 demo. Userland is an integrated dataflow environment for end-users. It allows users to interact with modules that implement functionality for different domains from a single user interface and combine these modules in creative ways. There are currently three different modules: spreadsheet, shell & synth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-07-01T20:33:48Z",
+            "owner": "hishamhm",
+            "repo": "userland-prototype",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowsheets",
+          "description": "/ repo / 🎥 demo 🎥 Flowsheets visualizations. A research prototype programming environment for making programs while seeing the data the program outputs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-06T22:48:37Z",
+            "owner": "Glench",
+            "repo": "Flowsheets-v2",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "Spreadsheets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Xstate",
+          "description": "/ repo. State machines and statecharts for the modern web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:49:27Z",
+            "owner": "statelyai",
+            "repo": "xstate",
+            "stars": 30006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InterState",
+          "description": "/ repo / 🎥 video / paper. InterState is a programming language and environment that addresses the challenges of writing and reusing user interface code. InterState represents interactive behaviors clearly and concisely using a combination of novel forms of state machines and constraints.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-11-25T23:48:56Z",
+            "owner": "soney",
+            "repo": "interstate",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "State machines/State charts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rete.js",
+          "description": "/ repo. JavaScript framework for visual programming and creating node editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T04:24:16Z",
+            "owner": "retejs",
+            "repo": "rete",
+            "stars": 12134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enso",
+          "description": "/ repo. Formerly Luna. Hybrid visual and textual functional programming for data processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T23:15:44Z",
+            "owner": "enso-org",
+            "repo": "enso",
+            "stars": 7436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoFlo",
+          "description": "/ repo. Flow-based programming for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-05T18:09:44Z",
+            "owner": "noflo",
+            "repo": "noflo",
+            "stars": 3549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftVPL / repo",
+          "description": "/ 🎥 video. A visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-11T22:07:05Z",
+            "owner": "NathanFlurry",
+            "repo": "VisualProgrammingLanguage",
+            "stars": 1199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glance / repo",
+          "description": ". A visual Haskell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2022-03-20T20:40:39Z",
+            "owner": "rgleichman",
+            "repo": "glance",
+            "stars": 736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Viskell",
+          "description": "/ repo. Visual programming meets Haskell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-04-19T22:14:33Z",
+            "owner": "viskell",
+            "repo": "viskell",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vlojure",
+          "description": "/ repo / 🎥 video. A visual programming interface for ClojureScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-02-03T04:06:26Z",
+            "owner": "Ella-Hoeppner",
+            "repo": "Vlojure",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skov",
+          "description": "/ repo. Skov is a visual programming environment based on Factor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Factor",
+            "last_commit": "2019-08-31T17:13:25Z",
+            "owner": "nicolas-p",
+            "repo": "skov",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lire / repo",
+          "description": ". Visual programming tool based on Common Lisp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2019-11-06T17:55:02Z",
+            "owner": "honix",
+            "repo": "Lire",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ton-lang / repo",
+          "description": ". A visual programming language, evaluated as a cellular automaton.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T00:11:03Z",
+            "owner": "felko",
+            "repo": "ton-lang",
+            "stars": 64
+          }
+        }
+      ],
+      "title": "Visual Programming with Nodes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Programming Codex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T03:07:11Z",
+            "owner": "ivyreese",
+            "repo": "visual-programming-codex",
+            "stars": 1490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Programming Languages for Enthusiasts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-19T04:53:21Z",
+            "owner": "prathyvsh",
+            "repo": "pl-catalog",
+            "stars": 779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glance's Related Work",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2022-03-20T20:40:39Z",
+            "owner": "rgleichman",
+            "repo": "glance",
+            "stars": 736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SomethingNew",
+          "description": ". Collaboration for reinventing software in human terms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-05-17T19:43:30Z",
+            "owner": "d-cook",
+            "repo": "SomethingNew",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Networked Notebook Catalogue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-15T10:48:19Z",
+            "owner": "prathyvsh",
+            "repo": "networked-notebooks",
+            "stars": 153
+          }
+        }
+      ],
+      "title": "Other lists with links"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:55:55.200Z",
+    "original_repository": "pel-daniel/mind-bicycles",
+    "original_repository_sha": "f767f946ace8803109ce763079e38ac9923fcc64",
+    "enhanced_repository": "enhansome/enhansome-mind-bicycles",
+    "enhanced_repository_description": null,
+    "title": "Awesome Bicycles for the mind with stars"
+  }
+}
