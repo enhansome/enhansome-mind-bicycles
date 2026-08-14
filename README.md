@@ -39,12 +39,12 @@
 
 ## Datalog Inspired Environments
 
-* [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) ⭐ 7,223 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve) ⭐ 377 | 🐛 5 | 📅 2024-06-26. Programming designed for humans.
-* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 290 | 🐛 204 | 🌐 Rust | 📅 2026-08-13. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
+* [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) ⭐ 7,224 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve) ⭐ 377 | 🐛 5 | 📅 2024-06-26. Programming designed for humans.
+* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 291 | 🐛 199 | 🌐 Rust | 📅 2026-08-14. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
 
 ## Debugging Tools
 
-* [CodeCrumbs](https://codecrumbs.io/) / [repo](https://github.com/Bogdan-Lyashenko/codecrumbs) ⭐ 2,710 | 🐛 29 | 🌐 JavaScript | 📅 2021-09-11. Learn, design or document codebase by putting breadcrumbs in source code.
+* [CodeCrumbs](https://codecrumbs.io/) / [repo](https://github.com/Bogdan-Lyashenko/codecrumbs) ⭐ 2,711 | 🐛 29 | 🌐 JavaScript | 📅 2021-09-11. Learn, design or document codebase by putting breadcrumbs in source code.
 * [Code Bubbles](http://www.andrewbragdon.com/codebubbles_site.asp) / [🎥 video](https://youtu.be/PsPX0nElJ0k?t=346). The essential goal of this project is to make it easier for developers to see many fragments of code (or other information) at once based on collections of lightweight, editable fragments called bubbles.
 * [Debugger Canvas](https://www.microsoft.com/en-us/research/publication/debugger-canvas-industrial-experience-with-the-code-bubbles-paradigm/) / [🎥 video](https://www.youtube.com/watch?v=3p9XUwIlhJg). Code bubbles for debugging in Visual Studio.
 
@@ -67,7 +67,7 @@
 
 ## Live programming environments for music
 
-* [Orca](https://wiki.xxiivv.com/#orca) / [repo](https://github.com/hundredrabbits/orca) ⭐ 5,061 | 🐛 39 | 🌐 JavaScript | 📅 2025-11-16 / [🎥 video](https://www.youtube.com/watch?v=RaI_TuISSJE). Orca is an esoteric programming language, designed to create procedural sequencers.
+* [Orca](https://wiki.xxiivv.com/#orca) / [repo](https://github.com/hundredrabbits/orca) ⭐ 5,062 | 🐛 39 | 🌐 JavaScript | 📅 2025-11-16 / [🎥 video](https://www.youtube.com/watch?v=RaI_TuISSJE). Orca is an esoteric programming language, designed to create procedural sequencers.
 * [BespokeSynth](http://hihigogo.com/bespoke/) / [repo](https://github.com/awwbees/BespokeSynth) ⭐ 141 | 🐛 0 | 🌐 C++ | 📅 2026-08-12 / [🎥 video](https://www.youtube.com/watch?v=2-ApB_gnAJE) / [reddit](https://www.reddit.com/r/BespokeSynth/). A new modular DAW for OSX.
 
 ## Notebooks
@@ -87,8 +87,8 @@
 
 ## Other
 
-* [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,700 | 🐛 1,271 | 🌐 Haskell | 📅 2026-08-12. Next-generation programming platform.
-* [IPLD](https://ipld.io/) / [repo](https://github.com/ipld/ipld) ⭐ 1,351 | 🐛 81 | 🌐 Nunjucks | 📅 2026-08-06. IPLD is a set of standards and implementations for creating decentralized data-structures that are universally addressable and linkable. These structures will allow us to do for data what URLs and links did for HTML web pages.
+* [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,701 | 🐛 1,271 | 🌐 Haskell | 📅 2026-08-12. Next-generation programming platform.
+* [IPLD](https://ipld.io/) / [repo](https://github.com/ipld/ipld) ⭐ 1,352 | 🐛 81 | 🌐 Nunjucks | 📅 2026-08-06. IPLD is a set of standards and implementations for creating decentralized data-structures that are universally addressable and linkable. These structures will allow us to do for data what URLs and links did for HTML web pages.
 * [Chorus](http://www.chorus-home.org/) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#subtextchorus) ⭐ 377 | 🐛 5 | 📅 2024-06-26 / [🎥 video](https://vimeo.com/179904952). Exploring the middle ground between spreadsheets and programming.
 * [xoL](http://xzzulz.github.io/xoL/) / [repo](https://github.com/xzzulz/xra9) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-14 / [📚 Concept design](http://xzzulz.github.io/xoL/presentation.html). Graphics based programming language.
 * CDG Labs 💀 / [Github](https://github.com/cdglabs).
@@ -102,7 +102,7 @@
 
 ## Projectional Editors
 
-* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,652 | 🐛 7 | 🌐 JetBrains MPS | 📅 2026-08-13. Create your own Domain Specific Language.
+* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,652 | 🐛 7 | 🌐 JetBrains MPS | 📅 2026-08-14. Create your own Domain Specific Language.
 * Moonchild / [repo](https://github.com/harc/moonchild) ⭐ 202 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-29 / [🎥 5-minute highlight reel](https://vimeo.com/106578509) [🎥 15-minute demo of Moonchild](https://vimeo.com/106498564). It's a toolkit for experimenting with new kinds of programming interfaces. It's based on CodeMirror, a web-based text editor. Moonchild adds a framework which makes it easy to create plugins which modify and extend the source code presentation.
 * [ProjecturEd](http://projectured.org/) / [repo](https://github.com/projectured/projectured) ⚠️ Archived. General purpose projectional editor written in Common Lisp.
 * [Envision](https://www.pm.inf.ethz.ch/research/envision.html) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 97 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
@@ -111,7 +111,7 @@
 ## Semantic Editors
 
 * [Lamdu](http://www.lamdu.org/) / [repo](https://github.com/lamdu/lamdu) ⭐ 1,897 | 🐛 25 | 🌐 Haskell | 📅 2026-08-09. An open source live programming environment.
-* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,125 | 🐛 420 | 🌐 Reason | 📅 2026-08-13. Live functional programming environment featuring typed holes.
+* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,126 | 🐛 422 | 🌐 Reason | 📅 2026-08-14. Live functional programming environment featuring typed holes.
 * [Fructure](https://fructure-editor.tumblr.com) / [repo](https://github.com/disconcision/fructure) ⭐ 506 | 🐛 16 | 🌐 Racket | 📅 2024-01-27 / [🎥 demo](https://www.youtube.com/watch?v=CnbVCNIh1NA). A structured interaction engine.
 * [Envision](http://dimitar-asenov.github.io/Envision/) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 97 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
 * [Syntactor](https://gregoor.github.io/syntactor) / [repo](https://github.com/Gregoor/syntactor) ⚠️ Archived. A JSON editor for editing data instead of syntax.
@@ -138,7 +138,7 @@
 
 ## State machines/State charts
 
-* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,009 | 🐛 121 | 🌐 TypeScript | 📅 2026-08-13. State machines and statecharts for the modern web.
+* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,015 | 🐛 121 | 🌐 TypeScript | 📅 2026-08-14. State machines and statecharts for the modern web.
 * [InterState](http://interstate.from.so/) / [repo](https://github.com/soney/interstate) ⚠️ Archived / [🎥 video](https://www.youtube.com/watch?v=M--9jsuDZis) / [paper](http://from.so/p/interstate.pdf). InterState is a programming language and environment that addresses the challenges of writing and reusing user interface code. InterState represents interactive behaviors clearly and concisely using a combination of novel forms of state machines and constraints.
 * [Sketch.systems](https://sketch.systems). Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 
@@ -149,7 +149,7 @@
 * [NoFlo](https://noflojs.org/) / [repo](https://github.com/noflo/noflo) ⭐ 3,549 | 🐛 29 | 🌐 JavaScript | 📅 2026-07-05. Flow-based programming for JavaScript.
 * SwiftVPL / [repo](https://github.com/NathanFlurry/VisualProgrammingLanguage) ⭐ 1,199 | 🐛 1 | 🌐 Swift | 📅 2026-03-11 / [🎥 video](https://www.youtube.com/watch?v=BNWC_OF5Q-Y). A visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
 * Glance / [repo](https://github.com/rgleichman/glance) ⭐ 736 | 🐛 4 | 🌐 Haskell | 📅 2022-03-20. A visual Haskell.
-* [Viskell](https://github.com/viskell/viskell/blob/master/viskell-nlfpday.pdf) ⭐ 680 | 🐛 22 | 🌐 Java | 📅 2017-04-19 / [repo](https://github.com/viskell/viskell) ⭐ 680 | 🐛 22 | 🌐 Java | 📅 2017-04-19. Visual programming meets Haskell.
+* [Viskell](https://github.com/viskell/viskell/blob/master/viskell-nlfpday.pdf) ⭐ 679 | 🐛 22 | 🌐 Java | 📅 2017-04-19 / [repo](https://github.com/viskell/viskell) ⭐ 679 | 🐛 22 | 🌐 Java | 📅 2017-04-19. Visual programming meets Haskell.
 * [Vlojure](https://vlojure.io) / [repo](https://github.com/Ella-Hoeppner/Vlojure) ⭐ 145 | 🐛 1 | 🌐 Clojure | 📅 2022-02-03 / [🎥 video](https://www.youtube.com/watch?v=1OcAUhe3E1E). A visual programming interface for ClojureScript.
 * [Skov](http://skov.software/en/) / [repo](https://github.com/nicolas-p/skov) ⭐ 104 | 🐛 4 | 🌐 Factor | 📅 2019-08-31. Skov is a visual programming environment based on Factor.
 * Lire / [repo](https://github.com/honix/Lire) ⭐ 91 | 🐛 0 | 🌐 Common Lisp | 📅 2019-11-06. Visual programming tool based on Common Lisp.
@@ -171,4 +171,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
