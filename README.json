@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T14:09:55Z",
+            "last_commit": "2026-08-15T05:37:33Z",
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 291
@@ -110,7 +110,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5062
+            "stars": 5061
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-12T17:19:18Z",
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6701
+            "stars": 6700
           }
         },
         {
@@ -209,7 +209,7 @@
           "repo_info": {
             "archived": false,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-14T13:04:20Z",
+            "last_commit": "2026-08-15T13:04:08Z",
             "owner": "JetBrains",
             "repo": "MPS",
             "stars": 1652
@@ -285,7 +285,7 @@
           "repo_info": {
             "archived": false,
             "language": "Reason",
-            "last_commit": "2026-08-14T09:33:53Z",
+            "last_commit": "2026-08-15T09:45:55Z",
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1126
@@ -437,10 +437,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:08:42Z",
+            "last_commit": "2026-08-15T03:15:07Z",
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30015
+            "stars": 30017
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2026-07-24T04:24:16Z",
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12134
+            "stars": 12159
           }
         },
         {
@@ -502,7 +502,7 @@
             "last_commit": "2026-07-05T18:09:44Z",
             "owner": "noflo",
             "repo": "noflo",
-            "stars": 3549
+            "stars": 3550
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2026-03-11T22:07:05Z",
             "owner": "NathanFlurry",
             "repo": "VisualProgrammingLanguage",
-            "stars": 1199
+            "stars": 1200
           }
         },
         {
@@ -684,7 +684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:18:42.615Z",
+    "last_updated": "2026-08-15T13:37:40.815Z",
     "original_repository": "pel-daniel/mind-bicycles",
     "original_repository_sha": "f767f946ace8803109ce763079e38ac9923fcc64",
     "enhanced_repository": "enhansome/enhansome-mind-bicycles",
