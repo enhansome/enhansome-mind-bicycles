@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T11:10:28Z",
+            "last_commit": "2026-08-17T12:29:32Z",
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 291
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-12T17:19:18Z",
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6701
+            "stars": 6702
           }
         },
         {
@@ -209,7 +209,7 @@
           "repo_info": {
             "archived": false,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-16T13:04:00Z",
+            "last_commit": "2026-08-17T13:04:36Z",
             "owner": "JetBrains",
             "repo": "MPS",
             "stars": 1653
@@ -274,7 +274,7 @@
             "last_commit": "2026-08-09T07:57:14Z",
             "owner": "lamdu",
             "repo": "lamdu",
-            "stars": 1897
+            "stars": 1898
           }
         },
         {
@@ -285,10 +285,10 @@
           "repo_info": {
             "archived": false,
             "language": "Reason",
-            "last_commit": "2026-08-15T09:45:55Z",
+            "last_commit": "2026-08-16T20:54:59Z",
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1126
+            "stars": 1127
           }
         },
         {
@@ -302,7 +302,7 @@
             "last_commit": "2024-01-27T07:54:38Z",
             "owner": "disconcision",
             "repo": "fructure",
-            "stars": 506
+            "stars": 505
           }
         },
         {
@@ -437,10 +437,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T18:22:18Z",
+            "last_commit": "2026-08-17T13:10:19Z",
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30017
+            "stars": 30019
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2026-07-24T04:24:16Z",
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12199
+            "stars": 12214
           }
         },
         {
@@ -684,7 +684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:38:45.619Z",
+    "last_updated": "2026-08-17T13:48:12.907Z",
     "original_repository": "pel-daniel/mind-bicycles",
     "original_repository_sha": "f767f946ace8803109ce763079e38ac9923fcc64",
     "enhanced_repository": "enhansome/enhansome-mind-bicycles",
