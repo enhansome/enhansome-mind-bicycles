@@ -27,7 +27,7 @@
             "archived": false,
             "id": 144608505,
             "language": "Rust",
-            "last_commit": "2026-08-18T01:03:11Z",
+            "last_commit": "2026-08-19T13:11:17Z",
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 291
@@ -459,10 +459,10 @@
             "archived": false,
             "id": 42455934,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:35:40Z",
+            "last_commit": "2026-08-19T13:47:01Z",
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30032
+            "stars": 30033
           }
         },
         {
@@ -722,7 +722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:39:56.543Z",
+    "last_updated": "2026-08-19T13:51:50.031Z",
     "original_repository": "pel-daniel/mind-bicycles",
     "original_repository_id": 167625367,
     "original_repository_sha": "f767f946ace8803109ce763079e38ac9923fcc64",
