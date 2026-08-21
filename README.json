@@ -27,10 +27,10 @@
             "archived": false,
             "id": 144608505,
             "language": "Rust",
-            "last_commit": "2026-08-20T11:54:44Z",
+            "last_commit": "2026-08-21T13:32:13Z",
             "owner": "mech-lang",
             "repo": "mech",
-            "stars": 291
+            "stars": 292
           }
         }
       ],
@@ -66,7 +66,7 @@
             "last_commit": "2024-06-02T12:14:57Z",
             "owner": "ravichugh",
             "repo": "sketch-n-sketch",
-            "stars": 568
+            "stars": 567
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5066
+            "stars": 5067
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-19T20:47:26Z",
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6709
+            "stars": 6711
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-06T04:47:31Z",
             "owner": "ipld",
             "repo": "ipld",
-            "stars": 1352
+            "stars": 1351
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2024-06-26T21:24:06Z",
             "owner": "pel-daniel",
             "repo": "mind-bicycles",
-            "stars": 377
+            "stars": 376
           }
         },
         {
@@ -216,7 +216,7 @@
             "archived": false,
             "id": 2209077,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-20T13:04:54Z",
+            "last_commit": "2026-08-21T13:04:17Z",
             "owner": "JetBrains",
             "repo": "MPS",
             "stars": 1654
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 2616288,
             "language": "Haskell",
-            "last_commit": "2026-08-09T07:57:14Z",
+            "last_commit": "2026-08-21T09:21:50Z",
             "owner": "lamdu",
             "repo": "lamdu",
             "stars": 1898
@@ -297,10 +297,10 @@
             "archived": false,
             "id": 80174692,
             "language": "Reason",
-            "last_commit": "2026-08-20T13:48:12Z",
+            "last_commit": "2026-08-21T13:57:22Z",
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1128
+            "stars": 1131
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-12T06:03:54Z",
             "owner": "getguesstimate",
             "repo": "guesstimate-app",
-            "stars": 2367
+            "stars": 2366
           }
         },
         {
@@ -459,10 +459,10 @@
             "archived": false,
             "id": 42455934,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T13:23:15Z",
+            "last_commit": "2026-08-21T13:42:16Z",
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30037
+            "stars": 30041
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-24T04:24:16Z",
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12223
+            "stars": 12224
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-10T23:15:44Z",
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7437
+            "stars": 7438
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-07-05T18:09:44Z",
             "owner": "noflo",
             "repo": "noflo",
-            "stars": 3551
+            "stars": 3552
           }
         },
         {
@@ -722,7 +722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:53:53.408Z",
+    "last_updated": "2026-08-21T13:58:01.015Z",
     "original_repository": "pel-daniel/mind-bicycles",
     "original_repository_id": 167625367,
     "original_repository_sha": "f767f946ace8803109ce763079e38ac9923fcc64",
