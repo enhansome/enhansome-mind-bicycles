@@ -27,7 +27,7 @@
             "archived": false,
             "id": 144608505,
             "language": "Rust",
-            "last_commit": "2026-08-21T13:32:13Z",
+            "last_commit": "2026-08-22T13:31:24Z",
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 292
@@ -216,7 +216,7 @@
             "archived": false,
             "id": 2209077,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-21T13:04:17Z",
+            "last_commit": "2026-08-22T13:03:56Z",
             "owner": "JetBrains",
             "repo": "MPS",
             "stars": 1654
@@ -297,10 +297,10 @@
             "archived": false,
             "id": 80174692,
             "language": "Reason",
-            "last_commit": "2026-08-21T13:57:22Z",
+            "last_commit": "2026-08-22T08:56:24Z",
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1131
+            "stars": 1132
           }
         },
         {
@@ -459,10 +459,10 @@
             "archived": false,
             "id": 42455934,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:42:16Z",
+            "last_commit": "2026-08-22T13:37:22Z",
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30041
+            "stars": 30045
           }
         },
         {
@@ -722,7 +722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:58:01.015Z",
+    "last_updated": "2026-08-22T13:38:56.232Z",
     "original_repository": "pel-daniel/mind-bicycles",
     "original_repository_id": 167625367,
     "original_repository_sha": "f767f946ace8803109ce763079e38ac9923fcc64",
