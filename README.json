@@ -15,7 +15,7 @@
             "last_commit": "2018-03-20T18:37:04Z",
             "owner": "witheve",
             "repo": "Eve",
-            "stars": 7223
+            "stars": 7222
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 144608505,
             "language": "Rust",
-            "last_commit": "2026-08-22T13:31:24Z",
+            "last_commit": "2026-08-23T13:26:42Z",
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 292
@@ -117,7 +117,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5067
+            "stars": 5068
           }
         },
         {
@@ -216,7 +216,7 @@
             "archived": false,
             "id": 2209077,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-22T13:03:56Z",
+            "last_commit": "2026-08-23T13:03:56Z",
             "owner": "JetBrains",
             "repo": "MPS",
             "stars": 1654
@@ -297,10 +297,10 @@
             "archived": false,
             "id": 80174692,
             "language": "Reason",
-            "last_commit": "2026-08-22T08:56:24Z",
+            "last_commit": "2026-08-23T09:39:03Z",
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1132
+            "stars": 1135
           }
         },
         {
@@ -459,10 +459,10 @@
             "archived": false,
             "id": 42455934,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T13:37:22Z",
+            "last_commit": "2026-08-23T12:57:53Z",
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30045
+            "stars": 30048
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-05-28T03:07:11Z",
             "owner": "ivyreese",
             "repo": "visual-programming-codex",
-            "stars": 1492
+            "stars": 1494
           }
         },
         {
@@ -722,7 +722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:38:56.232Z",
+    "last_updated": "2026-08-23T13:40:21.856Z",
     "original_repository": "pel-daniel/mind-bicycles",
     "original_repository_id": 167625367,
     "original_repository_sha": "f767f946ace8803109ce763079e38ac9923fcc64",
