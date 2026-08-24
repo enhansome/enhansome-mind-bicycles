@@ -27,7 +27,7 @@
             "archived": false,
             "id": 144608505,
             "language": "Rust",
-            "last_commit": "2026-08-23T13:26:42Z",
+            "last_commit": "2026-08-24T13:58:27Z",
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 292
@@ -107,6 +107,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "g9",
+          "description": "/ repo. Automatically interactive graphics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57250889,
+            "language": "JavaScript",
+            "last_commit": "2025-06-26T18:56:38Z",
+            "owner": "bijection",
+            "repo": "g9",
+            "stars": 1973
+          }
+        }
+      ],
+      "title": "Interactive visualizations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Orca",
           "description": "/ repo / 🎥 video. Orca is an esoteric programming language, designed to create procedural sequencers.",
           "children": [],
@@ -117,7 +138,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5068
+            "stars": 5069
           }
         },
         {
@@ -143,6 +164,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Hyperhaskell / repo",
+          "description": ". Graphical interpreter for the programming language Haskell. You use worksheets to enter expressions and evaluate them. Results are displayed graphically using HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69232750,
+            "language": "JavaScript",
+            "last_commit": "2025-10-27T11:14:23Z",
+            "owner": "HeinrichApfelmus",
+            "repo": "hyper-haskell",
+            "stars": 376
+          }
+        }
+      ],
+      "title": "Notebooks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ideal OS",
+          "description": "/ repo / ✉️ mailing list. Mockups of an ideal desktop operating system / environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93800763,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T17:50:22Z",
+            "owner": "joshmarinacci",
+            "repo": "idealos",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Operating Systems"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Unison",
           "description": "/ repo. Next-generation programming platform.",
           "children": [],
@@ -153,7 +216,7 @@
             "last_commit": "2026-08-19T20:47:26Z",
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6711
+            "stars": 6712
           }
         },
         {
@@ -216,7 +279,7 @@
             "archived": false,
             "id": 2209077,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-23T13:03:56Z",
+            "last_commit": "2026-08-24T13:04:28Z",
             "owner": "JetBrains",
             "repo": "MPS",
             "stars": 1654
@@ -297,10 +360,10 @@
             "archived": false,
             "id": 80174692,
             "language": "Reason",
-            "last_commit": "2026-08-23T09:39:03Z",
+            "last_commit": "2026-08-24T13:05:39Z",
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1135
+            "stars": 1136
           }
         },
         {
@@ -315,7 +378,7 @@
             "last_commit": "2024-01-27T07:54:38Z",
             "owner": "disconcision",
             "repo": "fructure",
-            "stars": 505
+            "stars": 506
           }
         },
         {
@@ -459,10 +522,10 @@
             "archived": false,
             "id": 42455934,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T12:57:53Z",
+            "last_commit": "2026-08-24T13:14:40Z",
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30048
+            "stars": 30053
           }
         },
         {
@@ -722,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:40:21.856Z",
+    "last_updated": "2026-08-24T14:09:30.107Z",
     "original_repository": "pel-daniel/mind-bicycles",
     "original_repository_id": 167625367,
     "original_repository_sha": "f767f946ace8803109ce763079e38ac9923fcc64",

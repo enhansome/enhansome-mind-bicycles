@@ -40,7 +40,7 @@
 ## Datalog Inspired Environments
 
 * [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) ⭐ 7,222 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve) ⭐ 376 | 🐛 5 | 📅 2024-06-26. Programming designed for humans.
-* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 292 | 🐛 206 | 🌐 Rust | 📅 2026-08-23. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
+* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 292 | 🐛 207 | 🌐 Rust | 📅 2026-08-24. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
 
 ## Debugging Tools
 
@@ -63,23 +63,23 @@
 
 ## Interactive visualizations
 
-* [g9](http://omrelli.ug/g9/) / [repo](https://github.com/bijection/g9) ⭐ 1,974 | 🐛 1 | 🌐 JavaScript | 📅 2025-06-26. Automatically interactive graphics.
+* [g9](http://omrelli.ug/g9/) / [repo](https://github.com/bijection/g9) ⭐ 1,973 | 🐛 1 | 🌐 JavaScript | 📅 2025-06-26. Automatically interactive graphics.
 
 ## Live programming environments for music
 
-* [Orca](https://wiki.xxiivv.com/#orca) / [repo](https://github.com/hundredrabbits/orca) ⭐ 5,068 | 🐛 39 | 🌐 JavaScript | 📅 2025-11-16 / [🎥 video](https://www.youtube.com/watch?v=RaI_TuISSJE). Orca is an esoteric programming language, designed to create procedural sequencers.
+* [Orca](https://wiki.xxiivv.com/#orca) / [repo](https://github.com/hundredrabbits/orca) ⭐ 5,069 | 🐛 39 | 🌐 JavaScript | 📅 2025-11-16 / [🎥 video](https://www.youtube.com/watch?v=RaI_TuISSJE). Orca is an esoteric programming language, designed to create procedural sequencers.
 * [BespokeSynth](http://hihigogo.com/bespoke/) / [repo](https://github.com/awwbees/BespokeSynth) ⭐ 141 | 🐛 0 | 🌐 C++ | 📅 2026-08-18 / [🎥 video](https://www.youtube.com/watch?v=2-ApB_gnAJE) / [reddit](https://www.reddit.com/r/BespokeSynth/). A new modular DAW for OSX.
 
 ## Notebooks
 
-* [Carbide](https://alpha.trycarbide.com)
 * Hyperhaskell / [repo](https://github.com/HeinrichApfelmus/hyper-haskell) ⭐ 376 | 🐛 14 | 🌐 JavaScript | 📅 2025-10-27. Graphical interpreter for the programming language Haskell. You use worksheets to enter expressions and evaluate them. Results are displayed graphically using HTML.
+* [Carbide](https://alpha.trycarbide.com)
 
 ## Operating Systems
 
+* [Ideal OS](https://joshondesign.com/2017/08/18/idealos_essay) / [repo](https://github.com/joshmarinacci/idealos) ⭐ 53 | 🐛 22 | 🌐 JavaScript | 📅 2023-01-06 / [✉️ mailing list](https://groups.google.com/forum/#!forum/idealos-design). Mockups of an ideal desktop operating system / environment.
 * [Desktop Neo](https://desktopneo.com). rethinking the desktop interface for productivity.
 * [elementary OS](https://elementary.io). The fast, open, and privacy-respecting replacement for Windows and macOS
-* [Ideal OS](https://joshondesign.com/2017/08/18/idealos_essay) / [repo](https://github.com/joshmarinacci/idealos) ⭐ 53 | 🐛 22 | 🌐 JavaScript | 📅 2023-01-06 / [✉️ mailing list](https://groups.google.com/forum/#!forum/idealos-design). Mockups of an ideal desktop operating system / environment.
 * Leap Technology / [🎥 video](https://www.youtube.com/watch?v=o_TlE_U_X3c). The revolutionary navigation technology invented by Jef Raskin.
 * [Mercury](https://www.mercuryos.com). Is a speculative reimagining of the operating system as a fluid experience driven by human intent.
 * [Project Oberon](http://www.projectoberon.com/). Project Oberon is a design for a complete desktop computer system from scratch.  Its simplicity and clarity enables a single person to know and implement the whole system, while still providing enough power to make it useful and usable in a production environment.
@@ -87,7 +87,7 @@
 
 ## Other
 
-* [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,711 | 🐛 1,268 | 🌐 Haskell | 📅 2026-08-19. Next-generation programming platform.
+* [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,712 | 🐛 1,268 | 🌐 Haskell | 📅 2026-08-19. Next-generation programming platform.
 * [IPLD](https://ipld.io/) / [repo](https://github.com/ipld/ipld) ⭐ 1,351 | 🐛 81 | 🌐 Nunjucks | 📅 2026-08-06. IPLD is a set of standards and implementations for creating decentralized data-structures that are universally addressable and linkable. These structures will allow us to do for data what URLs and links did for HTML web pages.
 * [Chorus](http://www.chorus-home.org/) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#subtextchorus) ⭐ 376 | 🐛 5 | 📅 2024-06-26 / [🎥 video](https://vimeo.com/179904952). Exploring the middle ground between spreadsheets and programming.
 * [xoL](http://xzzulz.github.io/xoL/) / [repo](https://github.com/xzzulz/xra9) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-14 / [📚 Concept design](http://xzzulz.github.io/xoL/presentation.html). Graphics based programming language.
@@ -102,7 +102,7 @@
 
 ## Projectional Editors
 
-* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,654 | 🐛 7 | 🌐 JetBrains MPS | 📅 2026-08-23. Create your own Domain Specific Language.
+* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,654 | 🐛 7 | 🌐 JetBrains MPS | 📅 2026-08-24. Create your own Domain Specific Language.
 * Moonchild / [repo](https://github.com/harc/moonchild) ⭐ 202 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-29 / [🎥 5-minute highlight reel](https://vimeo.com/106578509) [🎥 15-minute demo of Moonchild](https://vimeo.com/106498564). It's a toolkit for experimenting with new kinds of programming interfaces. It's based on CodeMirror, a web-based text editor. Moonchild adds a framework which makes it easy to create plugins which modify and extend the source code presentation.
 * [ProjecturEd](http://projectured.org/) / [repo](https://github.com/projectured/projectured) ⚠️ Archived. General purpose projectional editor written in Common Lisp.
 * [Envision](https://www.pm.inf.ethz.ch/research/envision.html) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 97 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
@@ -111,8 +111,8 @@
 ## Semantic Editors
 
 * [Lamdu](http://www.lamdu.org/) / [repo](https://github.com/lamdu/lamdu) ⭐ 1,898 | 🐛 25 | 🌐 Haskell | 📅 2026-08-21. An open source live programming environment.
-* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,135 | 🐛 428 | 🌐 Reason | 📅 2026-08-23. Live functional programming environment featuring typed holes.
-* [Fructure](https://fructure-editor.tumblr.com) / [repo](https://github.com/disconcision/fructure) ⭐ 505 | 🐛 16 | 🌐 Racket | 📅 2024-01-27 / [🎥 demo](https://www.youtube.com/watch?v=CnbVCNIh1NA). A structured interaction engine.
+* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,136 | 🐛 428 | 🌐 Reason | 📅 2026-08-24. Live functional programming environment featuring typed holes.
+* [Fructure](https://fructure-editor.tumblr.com) / [repo](https://github.com/disconcision/fructure) ⭐ 506 | 🐛 16 | 🌐 Racket | 📅 2024-01-27 / [🎥 demo](https://www.youtube.com/watch?v=CnbVCNIh1NA). A structured interaction engine.
 * [Envision](http://dimitar-asenov.github.io/Envision/) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 97 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
 * [Syntactor](https://gregoor.github.io/syntactor) / [repo](https://github.com/Gregoor/syntactor) ⚠️ Archived. A JSON editor for editing data instead of syntax.
 * Omni / [repo](https://github.com/daniel-kun/omni) ⭐ 34 | 🐛 0 | 🌐 C++ | 📅 2017-12-07.
@@ -138,7 +138,7 @@
 
 ## State machines/State charts
 
-* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,048 | 🐛 120 | 🌐 TypeScript | 📅 2026-08-23. State machines and statecharts for the modern web.
+* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,053 | 🐛 123 | 🌐 TypeScript | 📅 2026-08-24. State machines and statecharts for the modern web.
 * [InterState](http://interstate.from.so/) / [repo](https://github.com/soney/interstate) ⚠️ Archived / [🎥 video](https://www.youtube.com/watch?v=M--9jsuDZis) / [paper](http://from.so/p/interstate.pdf). InterState is a programming language and environment that addresses the challenges of writing and reusing user interface code. InterState represents interactive behaviors clearly and concisely using a combination of novel forms of state machines and constraints.
 * [Sketch.systems](https://sketch.systems). Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 
@@ -171,4 +171,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
