@@ -27,7 +27,7 @@
             "archived": false,
             "id": 144608505,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:58:27Z",
+            "last_commit": "2026-08-24T14:50:28Z",
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 292
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-24T13:04:28Z",
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1654
+            "stars": 1655
           }
         },
         {
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:09:30.107Z",
+    "last_updated": "2026-08-24T15:06:56.484Z",
     "original_repository": "pel-daniel/mind-bicycles",
     "original_repository_id": 167625367,
     "original_repository_sha": "f767f946ace8803109ce763079e38ac9923fcc64",
