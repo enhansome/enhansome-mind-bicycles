@@ -27,7 +27,7 @@
             "archived": false,
             "id": 144608505,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:50:28Z",
+            "last_commit": "2026-08-25T03:32:45Z",
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 292
@@ -138,7 +138,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5069
+            "stars": 5070
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-19T20:47:26Z",
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6712
+            "stars": 6713
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-06T04:47:31Z",
             "owner": "ipld",
             "repo": "ipld",
-            "stars": 1351
+            "stars": 1352
           }
         },
         {
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 2209077,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-24T13:04:28Z",
+            "last_commit": "2026-08-24T21:04:24Z",
             "owner": "JetBrains",
             "repo": "MPS",
             "stars": 1655
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-21T09:21:50Z",
             "owner": "lamdu",
             "repo": "lamdu",
-            "stars": 1898
+            "stars": 1899
           }
         },
         {
@@ -360,10 +360,10 @@
             "archived": false,
             "id": 80174692,
             "language": "Reason",
-            "last_commit": "2026-08-24T13:05:39Z",
+            "last_commit": "2026-08-24T21:17:04Z",
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1136
+            "stars": 1138
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-12T06:03:54Z",
             "owner": "getguesstimate",
             "repo": "guesstimate-app",
-            "stars": 2366
+            "stars": 2367
           }
         },
         {
@@ -522,10 +522,10 @@
             "archived": false,
             "id": 42455934,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:14:40Z",
+            "last_commit": "2026-08-24T18:09:36Z",
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30053
+            "stars": 30056
           }
         },
         {
@@ -717,7 +717,7 @@
             "last_commit": "2026-05-28T03:07:11Z",
             "owner": "ivyreese",
             "repo": "visual-programming-codex",
-            "stars": 1494
+            "stars": 1495
           }
         },
         {
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:06:56.484Z",
+    "last_updated": "2026-08-25T06:18:08.400Z",
     "original_repository": "pel-daniel/mind-bicycles",
     "original_repository_id": 167625367,
     "original_repository_sha": "f767f946ace8803109ce763079e38ac9923fcc64",
