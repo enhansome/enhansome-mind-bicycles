@@ -15,7 +15,7 @@
             "last_commit": "2018-03-20T18:37:04Z",
             "owner": "witheve",
             "repo": "Eve",
-            "stars": 7222
+            "stars": 7223
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 144608505,
             "language": "Rust",
-            "last_commit": "2026-08-25T03:32:45Z",
+            "last_commit": "2026-08-25T13:06:03Z",
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 292
@@ -138,7 +138,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5070
+            "stars": 5071
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-19T20:47:26Z",
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6713
+            "stars": 6715
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 71267812,
             "language": "Nunjucks",
-            "last_commit": "2026-08-06T04:47:31Z",
+            "last_commit": "2026-08-25T08:11:03Z",
             "owner": "ipld",
             "repo": "ipld",
             "stars": 1352
@@ -279,10 +279,10 @@
             "archived": false,
             "id": 2209077,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-24T21:04:24Z",
+            "last_commit": "2026-08-25T13:04:47Z",
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1655
+            "stars": 1656
           }
         },
         {
@@ -360,10 +360,10 @@
             "archived": false,
             "id": 80174692,
             "language": "Reason",
-            "last_commit": "2026-08-24T21:17:04Z",
+            "last_commit": "2026-08-25T13:28:48Z",
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1138
+            "stars": 1139
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-24T18:09:36Z",
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30056
+            "stars": 30059
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-07-24T04:24:16Z",
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12224
+            "stars": 12225
           }
         },
         {
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:08.400Z",
+    "last_updated": "2026-08-25T13:57:55.016Z",
     "original_repository": "pel-daniel/mind-bicycles",
     "original_repository_id": 167625367,
     "original_repository_sha": "f767f946ace8803109ce763079e38ac9923fcc64",
