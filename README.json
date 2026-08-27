@@ -27,7 +27,7 @@
             "archived": false,
             "id": 144608505,
             "language": "Rust",
-            "last_commit": "2026-08-27T08:07:36Z",
+            "last_commit": "2026-08-27T22:41:29Z",
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 294
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-19T20:47:26Z",
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6717
+            "stars": 6719
           }
         },
         {
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 2209077,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-27T09:04:27Z",
+            "last_commit": "2026-08-27T21:04:19Z",
             "owner": "JetBrains",
             "repo": "MPS",
             "stars": 1656
@@ -360,7 +360,7 @@
             "archived": false,
             "id": 80174692,
             "language": "Reason",
-            "last_commit": "2026-08-27T09:22:21Z",
+            "last_commit": "2026-08-27T22:50:24Z",
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1140
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-27T03:51:57Z",
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30064
+            "stars": 30065
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2022-03-20T20:40:39Z",
             "owner": "rgleichman",
             "repo": "glance",
-            "stars": 736
+            "stars": 735
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2022-03-20T20:40:39Z",
             "owner": "rgleichman",
             "repo": "glance",
-            "stars": 736
+            "stars": 735
           }
         },
         {
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:56.276Z",
+    "last_updated": "2026-08-27T22:55:20.074Z",
     "original_repository_info": {
       "archived": false,
       "id": 167625367,

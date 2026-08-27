@@ -40,7 +40,7 @@
 ## Datalog Inspired Environments
 
 * [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) ⭐ 7,223 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve) ⭐ 376 | 🐛 5 | 📅 2024-06-26. Programming designed for humans.
-* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 294 | 🐛 205 | 🌐 Rust | 📅 2026-08-27. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
+* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 294 | 🐛 208 | 🌐 Rust | 📅 2026-08-27. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
 
 ## Debugging Tools
 
@@ -87,7 +87,7 @@
 
 ## Other
 
-* [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,717 | 🐛 1,268 | 🌐 Haskell | 📅 2026-08-19. Next-generation programming platform.
+* [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,719 | 🐛 1,268 | 🌐 Haskell | 📅 2026-08-19. Next-generation programming platform.
 * [IPLD](https://ipld.io/) / [repo](https://github.com/ipld/ipld) ⭐ 1,351 | 🐛 82 | 🌐 Nunjucks | 📅 2026-08-26. IPLD is a set of standards and implementations for creating decentralized data-structures that are universally addressable and linkable. These structures will allow us to do for data what URLs and links did for HTML web pages.
 * [Chorus](http://www.chorus-home.org/) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#subtextchorus) ⭐ 376 | 🐛 5 | 📅 2024-06-26 / [🎥 video](https://vimeo.com/179904952). Exploring the middle ground between spreadsheets and programming.
 * [xoL](http://xzzulz.github.io/xoL/) / [repo](https://github.com/xzzulz/xra9) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-14 / [📚 Concept design](http://xzzulz.github.io/xoL/presentation.html). Graphics based programming language.
@@ -111,7 +111,7 @@
 ## Semantic Editors
 
 * [Lamdu](http://www.lamdu.org/) / [repo](https://github.com/lamdu/lamdu) ⭐ 1,899 | 🐛 25 | 🌐 Haskell | 📅 2026-08-21. An open source live programming environment.
-* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,140 | 🐛 423 | 🌐 Reason | 📅 2026-08-27. Live functional programming environment featuring typed holes.
+* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,140 | 🐛 419 | 🌐 Reason | 📅 2026-08-27. Live functional programming environment featuring typed holes.
 * [Fructure](https://fructure-editor.tumblr.com) / [repo](https://github.com/disconcision/fructure) ⭐ 506 | 🐛 16 | 🌐 Racket | 📅 2024-01-27 / [🎥 demo](https://www.youtube.com/watch?v=CnbVCNIh1NA). A structured interaction engine.
 * [Envision](http://dimitar-asenov.github.io/Envision/) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 97 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
 * [Syntactor](https://gregoor.github.io/syntactor) / [repo](https://github.com/Gregoor/syntactor) ⚠️ Archived. A JSON editor for editing data instead of syntax.
@@ -138,7 +138,7 @@
 
 ## State machines/State charts
 
-* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,064 | 🐛 122 | 🌐 TypeScript | 📅 2026-08-27. State machines and statecharts for the modern web.
+* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,065 | 🐛 122 | 🌐 TypeScript | 📅 2026-08-27. State machines and statecharts for the modern web.
 * [InterState](http://interstate.from.so/) / [repo](https://github.com/soney/interstate) ⚠️ Archived / [🎥 video](https://www.youtube.com/watch?v=M--9jsuDZis) / [paper](http://from.so/p/interstate.pdf). InterState is a programming language and environment that addresses the challenges of writing and reusing user interface code. InterState represents interactive behaviors clearly and concisely using a combination of novel forms of state machines and constraints.
 * [Sketch.systems](https://sketch.systems). Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 
@@ -148,7 +148,7 @@
 * [Enso](https://enso.org/) / [repo](https://github.com/enso-org/enso) ⭐ 7,439 | 🐛 325 | 🌐 Java | 📅 2026-08-10. Formerly Luna. Hybrid visual and textual functional programming for data processing.
 * [NoFlo](https://noflojs.org/) / [repo](https://github.com/noflo/noflo) ⭐ 3,552 | 🐛 29 | 🌐 JavaScript | 📅 2026-07-05. Flow-based programming for JavaScript.
 * SwiftVPL / [repo](https://github.com/NathanFlurry/VisualProgrammingLanguage) ⭐ 1,200 | 🐛 1 | 🌐 Swift | 📅 2026-03-11 / [🎥 video](https://www.youtube.com/watch?v=BNWC_OF5Q-Y). A visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
-* Glance / [repo](https://github.com/rgleichman/glance) ⭐ 736 | 🐛 4 | 🌐 Haskell | 📅 2022-03-20. A visual Haskell.
+* Glance / [repo](https://github.com/rgleichman/glance) ⭐ 735 | 🐛 4 | 🌐 Haskell | 📅 2022-03-20. A visual Haskell.
 * [Viskell](https://github.com/viskell/viskell/blob/master/viskell-nlfpday.pdf) ⭐ 679 | 🐛 22 | 🌐 Java | 📅 2017-04-19 / [repo](https://github.com/viskell/viskell) ⭐ 679 | 🐛 22 | 🌐 Java | 📅 2017-04-19. Visual programming meets Haskell.
 * [Vlojure](https://vlojure.io) / [repo](https://github.com/Ella-Hoeppner/Vlojure) ⭐ 145 | 🐛 1 | 🌐 Clojure | 📅 2022-02-03 / [🎥 video](https://www.youtube.com/watch?v=1OcAUhe3E1E). A visual programming interface for ClojureScript.
 * [Skov](http://skov.software/en/) / [repo](https://github.com/nicolas-p/skov) ⭐ 104 | 🐛 4 | 🌐 Factor | 📅 2019-08-31. Skov is a visual programming environment based on Factor.
@@ -161,7 +161,7 @@
 
 * [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex) ⭐ 1,495 | 🐛 126 | 📅 2026-05-28
 * [Programming Languages for Enthusiasts](https://github.com/prathyvsh/pl-catalog) ⭐ 780 | 🐛 12 | 📅 2025-05-19
-* [Glance's Related Work](https://github.com/rgleichman/glance/wiki/Related-work) ⭐ 736 | 🐛 4 | 🌐 Haskell | 📅 2022-03-20
+* [Glance's Related Work](https://github.com/rgleichman/glance/wiki/Related-work) ⭐ 735 | 🐛 4 | 🌐 Haskell | 📅 2022-03-20
 * [SomethingNew](https://github.com/d-cook/SomethingNew) ⭐ 174 | 🐛 33 | 📅 2018-05-17. Collaboration for reinventing software in human terms.
 * [Networked Notebook Catalogue](https://github.com/prathyvsh/networked-notebooks) ⭐ 153 | 🐛 3 | 📅 2022-08-15
 * [Gallery of Programmer Interfaces](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI)
