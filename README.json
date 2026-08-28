@@ -16,7 +16,8 @@
             "owner": "witheve",
             "repo": "Eve",
             "stars": 7223
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 144608505,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:41:29Z",
+            "last_commit": "2026-08-28T21:25:28Z",
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "Datalog Inspired Environments"
@@ -52,7 +54,8 @@
             "owner": "cdglabs",
             "repo": "apparatus",
             "stars": 1052
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "ravichugh",
             "repo": "sketch-n-sketch",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "szymonkaliski",
             "repo": "dacein",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "rbyte",
             "repo": "Vogo",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "Direct Manipulation Graphics Editors"
@@ -118,7 +124,8 @@
             "owner": "bijection",
             "repo": "g9",
             "stars": 1973
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "Interactive visualizations"
@@ -138,8 +145,9 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5074
-          }
+            "stars": 5075
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -154,7 +162,8 @@
             "owner": "awwbees",
             "repo": "BespokeSynth",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "Live programming environments for music"
@@ -175,7 +184,8 @@
             "owner": "HeinrichApfelmus",
             "repo": "hyper-haskell",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "Notebooks"
@@ -196,7 +206,8 @@
             "owner": "joshmarinacci",
             "repo": "idealos",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "Operating Systems"
@@ -216,8 +227,9 @@
             "last_commit": "2026-08-19T20:47:26Z",
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6719
-          }
+            "stars": 6722
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -232,7 +244,8 @@
             "owner": "ipld",
             "repo": "ipld",
             "stars": 1351
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -247,7 +260,8 @@
             "owner": "pel-daniel",
             "repo": "mind-bicycles",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -262,7 +276,8 @@
             "owner": "lignx",
             "repo": "xra9",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "Other"
@@ -279,11 +294,12 @@
             "archived": false,
             "id": 2209077,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-27T21:04:19Z",
+            "last_commit": "2026-08-28T21:04:39Z",
             "owner": "JetBrains",
             "repo": "MPS",
             "stars": 1656
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -298,7 +314,8 @@
             "owner": "harc",
             "repo": "moonchild",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -313,7 +330,8 @@
             "owner": "projectured",
             "repo": "projectured-lisp",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -328,7 +346,8 @@
             "owner": "dimitar-asenov",
             "repo": "Envision",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "Projectional Editors"
@@ -349,7 +368,8 @@
             "owner": "lamdu",
             "repo": "lamdu",
             "stars": 1899
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -360,11 +380,12 @@
             "archived": false,
             "id": 80174692,
             "language": "Reason",
-            "last_commit": "2026-08-27T22:50:24Z",
+            "last_commit": "2026-08-28T22:45:25Z",
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1140
-          }
+            "stars": 1141
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -379,7 +400,8 @@
             "owner": "disconcision",
             "repo": "fructure",
             "stars": 506
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -394,7 +416,8 @@
             "owner": "dimitar-asenov",
             "repo": "Envision",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -409,7 +432,8 @@
             "owner": "Gregoor",
             "repo": "syntactor",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -424,7 +448,8 @@
             "owner": "daniel-kun",
             "repo": "omni",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -439,7 +464,8 @@
             "owner": "serokell",
             "repo": "foundry",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "Semantic Editors"
@@ -460,7 +486,8 @@
             "owner": "getguesstimate",
             "repo": "guesstimate-app",
             "stars": 2367
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -475,7 +502,8 @@
             "owner": "chrispsn",
             "repo": "mesh",
             "stars": 1558
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -490,7 +518,8 @@
             "owner": "hishamhm",
             "repo": "userland-prototype",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -505,7 +534,8 @@
             "owner": "Glench",
             "repo": "Flowsheets-v2",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "Spreadsheets"
@@ -522,11 +552,12 @@
             "archived": false,
             "id": 42455934,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T03:51:57Z",
+            "last_commit": "2026-08-28T04:25:23Z",
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30065
-          }
+            "stars": 30071
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -541,7 +572,8 @@
             "owner": "soney",
             "repo": "interstate",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "State machines/State charts"
@@ -561,8 +593,9 @@
             "last_commit": "2026-07-24T04:24:16Z",
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12227
-          }
+            "stars": 12228
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -577,7 +610,8 @@
             "owner": "enso-org",
             "repo": "enso",
             "stars": 7439
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -592,7 +626,8 @@
             "owner": "noflo",
             "repo": "noflo",
             "stars": 3552
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -607,7 +642,8 @@
             "owner": "NathanFlurry",
             "repo": "VisualProgrammingLanguage",
             "stars": 1200
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -622,7 +658,8 @@
             "owner": "rgleichman",
             "repo": "glance",
             "stars": 735
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -637,7 +674,8 @@
             "owner": "viskell",
             "repo": "viskell",
             "stars": 679
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -652,7 +690,8 @@
             "owner": "Ella-Hoeppner",
             "repo": "Vlojure",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -667,7 +706,8 @@
             "owner": "nicolas-p",
             "repo": "skov",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -682,7 +722,8 @@
             "owner": "honix",
             "repo": "Lire",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -697,7 +738,8 @@
             "owner": "felko",
             "repo": "ton-lang",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "Visual Programming with Nodes"
@@ -718,7 +760,8 @@
             "owner": "ivyreese",
             "repo": "visual-programming-codex",
             "stars": 1495
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -733,7 +776,8 @@
             "owner": "prathyvsh",
             "repo": "pl-catalog",
             "stars": 780
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -748,7 +792,8 @@
             "owner": "rgleichman",
             "repo": "glance",
             "stars": 735
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -763,7 +808,8 @@
             "owner": "d-cook",
             "repo": "SomethingNew",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         },
         {
           "node_type": "item",
@@ -778,14 +824,15 @@
             "owner": "prathyvsh",
             "repo": "networked-notebooks",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T22:59:49.653Z"
         }
       ],
       "title": "Other lists with links"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:55:20.074Z",
+    "last_updated": "2026-08-28T22:59:49.653Z",
     "original_repository_info": {
       "archived": false,
       "id": 167625367,
