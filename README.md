@@ -40,7 +40,7 @@
 ## Datalog Inspired Environments
 
 * [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) ⭐ 7,223 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve) ⭐ 376 | 🐛 5 | 📅 2024-06-26. Programming designed for humans.
-* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 294 | 🐛 212 | 🌐 Rust | 📅 2026-08-29. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
+* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 294 | 🐛 211 | 🌐 Rust | 📅 2026-08-29. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
 
 ## Debugging Tools
 
@@ -87,7 +87,7 @@
 
 ## Other
 
-* [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,722 | 🐛 1,268 | 🌐 Haskell | 📅 2026-08-19. Next-generation programming platform.
+* [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,720 | 🐛 1,268 | 🌐 Haskell | 📅 2026-08-19. Next-generation programming platform.
 * [IPLD](https://ipld.io/) / [repo](https://github.com/ipld/ipld) ⭐ 1,351 | 🐛 82 | 🌐 Nunjucks | 📅 2026-08-26. IPLD is a set of standards and implementations for creating decentralized data-structures that are universally addressable and linkable. These structures will allow us to do for data what URLs and links did for HTML web pages.
 * [Chorus](http://www.chorus-home.org/) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#subtextchorus) ⭐ 376 | 🐛 5 | 📅 2024-06-26 / [🎥 video](https://vimeo.com/179904952). Exploring the middle ground between spreadsheets and programming.
 * [xoL](http://xzzulz.github.io/xoL/) / [repo](https://github.com/xzzulz/xra9) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-14 / [📚 Concept design](http://xzzulz.github.io/xoL/presentation.html). Graphics based programming language.
@@ -102,7 +102,7 @@
 
 ## Projectional Editors
 
-* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,656 | 🐛 7 | 🌐 JetBrains MPS | 📅 2026-08-28. Create your own Domain Specific Language.
+* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,656 | 🐛 7 | 🌐 JetBrains MPS | 📅 2026-08-29. Create your own Domain Specific Language.
 * Moonchild / [repo](https://github.com/harc/moonchild) ⭐ 202 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-29 / [🎥 5-minute highlight reel](https://vimeo.com/106578509) [🎥 15-minute demo of Moonchild](https://vimeo.com/106498564). It's a toolkit for experimenting with new kinds of programming interfaces. It's based on CodeMirror, a web-based text editor. Moonchild adds a framework which makes it easy to create plugins which modify and extend the source code presentation.
 * [ProjecturEd](http://projectured.org/) / [repo](https://github.com/projectured/projectured) ⚠️ Archived. General purpose projectional editor written in Common Lisp.
 * [Envision](https://www.pm.inf.ethz.ch/research/envision.html) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 97 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
@@ -160,7 +160,7 @@
 ## Other lists with links
 
 * [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex) ⭐ 1,495 | 🐛 126 | 📅 2026-05-28
-* [Programming Languages for Enthusiasts](https://github.com/prathyvsh/pl-catalog) ⭐ 780 | 🐛 12 | 📅 2025-05-19
+* [Programming Languages for Enthusiasts](https://github.com/prathyvsh/pl-catalog) ⭐ 780 | 🐛 11 | 📅 2025-05-19
 * [Glance's Related Work](https://github.com/rgleichman/glance/wiki/Related-work) ⭐ 735 | 🐛 4 | 🌐 Haskell | 📅 2022-03-20
 * [SomethingNew](https://github.com/d-cook/SomethingNew) ⭐ 174 | 🐛 33 | 📅 2018-05-17. Collaboration for reinventing software in human terms.
 * [Networked Notebook Catalogue](https://github.com/prathyvsh/networked-notebooks) ⭐ 153 | 🐛 3 | 📅 2022-08-15
