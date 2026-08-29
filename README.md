@@ -40,7 +40,7 @@
 ## Datalog Inspired Environments
 
 * [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) ⭐ 7,223 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve) ⭐ 376 | 🐛 5 | 📅 2024-06-26. Programming designed for humans.
-* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 294 | 🐛 212 | 🌐 Rust | 📅 2026-08-28. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
+* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 294 | 🐛 212 | 🌐 Rust | 📅 2026-08-29. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
 
 ## Debugging Tools
 
@@ -111,7 +111,7 @@
 ## Semantic Editors
 
 * [Lamdu](http://www.lamdu.org/) / [repo](https://github.com/lamdu/lamdu) ⭐ 1,899 | 🐛 25 | 🌐 Haskell | 📅 2026-08-21. An open source live programming environment.
-* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,141 | 🐛 422 | 🌐 Reason | 📅 2026-08-28. Live functional programming environment featuring typed holes.
+* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,141 | 🐛 422 | 🌐 Reason | 📅 2026-08-29. Live functional programming environment featuring typed holes.
 * [Fructure](https://fructure-editor.tumblr.com) / [repo](https://github.com/disconcision/fructure) ⭐ 506 | 🐛 16 | 🌐 Racket | 📅 2024-01-27 / [🎥 demo](https://www.youtube.com/watch?v=CnbVCNIh1NA). A structured interaction engine.
 * [Envision](http://dimitar-asenov.github.io/Envision/) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 97 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
 * [Syntactor](https://gregoor.github.io/syntactor) / [repo](https://github.com/Gregoor/syntactor) ⚠️ Archived. A JSON editor for editing data instead of syntax.
@@ -138,7 +138,7 @@
 
 ## State machines/State charts
 
-* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,071 | 🐛 122 | 🌐 TypeScript | 📅 2026-08-28. State machines and statecharts for the modern web.
+* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,070 | 🐛 122 | 🌐 TypeScript | 📅 2026-08-28. State machines and statecharts for the modern web.
 * [InterState](http://interstate.from.so/) / [repo](https://github.com/soney/interstate) ⚠️ Archived / [🎥 video](https://www.youtube.com/watch?v=M--9jsuDZis) / [paper](http://from.so/p/interstate.pdf). InterState is a programming language and environment that addresses the challenges of writing and reusing user interface code. InterState represents interactive behaviors clearly and concisely using a combination of novel forms of state machines and constraints.
 * [Sketch.systems](https://sketch.systems). Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 
@@ -171,4 +171,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
