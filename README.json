@@ -42,8 +42,8 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T16:37:48Z",
-            "open_issues": 201,
+            "last_commit": "2026-09-03T10:55:53Z",
+            "open_issues": 208,
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 295,
@@ -209,7 +209,7 @@
             "open_issues": 39,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5078,
+            "stars": 5079,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -322,10 +322,10 @@
             "language": "Haskell",
             "license": "NOASSERTION",
             "last_commit": "2026-08-19T20:47:26Z",
-            "open_issues": 1268,
+            "open_issues": 1269,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6721,
+            "stars": 6723,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -424,11 +424,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T17:04:52Z",
+            "last_commit": "2026-09-03T17:00:48Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1657,
+            "stars": 1658,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -545,11 +545,11 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-09-02T16:02:28Z",
-            "open_issues": 427,
+            "last_commit": "2026-09-03T15:19:26Z",
+            "open_issues": 426,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1142,
+            "stars": 1143,
             "topics": [
               "editor",
               "elm",
@@ -694,7 +694,7 @@
             "open_issues": 63,
             "owner": "getguesstimate",
             "repo": "guesstimate-app",
-            "stars": 2367,
+            "stars": 2368,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -785,11 +785,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T15:29:35Z",
-            "open_issues": 124,
+            "last_commit": "2026-09-03T16:44:05Z",
+            "open_issues": 123,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30082,
+            "stars": 30085,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -919,7 +919,7 @@
             "open_issues": 29,
             "owner": "noflo",
             "repo": "noflo",
-            "stars": 3552,
+            "stars": 3551,
             "topics": [
               "etl-framework",
               "fbp",
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:06:43.958Z",
+    "last_updated": "2026-09-03T17:00:49.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
