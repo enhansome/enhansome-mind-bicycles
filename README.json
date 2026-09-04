@@ -42,7 +42,7 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T10:55:53Z",
+            "last_commit": "2026-09-04T16:47:11Z",
             "open_issues": 208,
             "owner": "mech-lang",
             "repo": "mech",
@@ -237,7 +237,7 @@
             "open_issues": 0,
             "owner": "awwbees",
             "repo": "BespokeSynth",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -424,7 +424,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T17:00:48Z",
+            "last_commit": "2026-09-04T13:04:31Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -545,8 +545,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-09-03T15:19:26Z",
-            "open_issues": 426,
+            "last_commit": "2026-09-04T16:43:41Z",
+            "open_issues": 430,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1143,
@@ -785,11 +785,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T16:44:05Z",
-            "open_issues": 123,
+            "last_commit": "2026-09-03T21:11:35Z",
+            "open_issues": 121,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30085,
+            "stars": 30090,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -857,7 +857,7 @@
             "open_issues": 14,
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12231,
+            "stars": 12233,
             "topics": [
               "dataflow-programming",
               "flow-based-programming",
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:00:49.804Z",
+    "last_updated": "2026-09-04T16:49:29.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
