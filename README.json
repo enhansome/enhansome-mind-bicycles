@@ -42,8 +42,8 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T16:54:20Z",
-            "open_issues": 211,
+            "last_commit": "2026-09-14T17:50:32Z",
+            "open_issues": 215,
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 295,
@@ -209,7 +209,7 @@
             "open_issues": 39,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5089,
+            "stars": 5092,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -325,7 +325,7 @@
             "open_issues": 1271,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6727,
+            "stars": 6729,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -373,7 +373,7 @@
             "open_issues": 5,
             "owner": "pel-daniel",
             "repo": "mind-bicycles",
-            "stars": 376,
+            "stars": 377,
             "topics": [
               "awesome-list",
               "future-of-programming"
@@ -424,7 +424,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T13:04:08Z",
+            "last_commit": "2026-09-14T17:04:38Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -545,8 +545,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-09-13T15:28:35Z",
-            "open_issues": 471,
+            "last_commit": "2026-09-14T18:32:15Z",
+            "open_issues": 478,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1151,
@@ -785,11 +785,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T22:25:06Z",
+            "last_commit": "2026-09-14T15:54:40Z",
             "open_issues": 125,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30111,
+            "stars": 30114,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T16:56:24.241Z",
+    "last_updated": "2026-09-14T18:32:22.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
@@ -1254,7 +1254,7 @@
       "open_issues": 5,
       "owner": "pel-daniel",
       "repo": "mind-bicycles",
-      "stars": 376,
+      "stars": 377,
       "topics": [
         "awesome-list",
         "future-of-programming"

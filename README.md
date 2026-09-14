@@ -39,12 +39,12 @@
 
 ## Datalog Inspired Environments
 
-* [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) ⭐ 7,222 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve) ⭐ 376 | 🐛 5 | 📅 2024-06-26. Programming designed for humans.
-* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 295 | 🐛 211 | 🌐 Rust | 📅 2026-09-13. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
+* [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) ⭐ 7,222 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve) ⭐ 377 | 🐛 5 | 📅 2024-06-26. Programming designed for humans.
+* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 295 | 🐛 215 | 🌐 Rust | 📅 2026-09-14. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
 
 ## Debugging Tools
 
-* [CodeCrumbs](https://codecrumbs.io/) / [repo](https://github.com/Bogdan-Lyashenko/codecrumbs) ⭐ 2,711 | 🐛 29 | 🌐 JavaScript | 📅 2021-09-11. Learn, design or document codebase by putting breadcrumbs in source code.
+* [CodeCrumbs](https://codecrumbs.io/) / [repo](https://github.com/Bogdan-Lyashenko/codecrumbs) ⭐ 2,710 | 🐛 29 | 🌐 JavaScript | 📅 2021-09-11. Learn, design or document codebase by putting breadcrumbs in source code.
 * [Code Bubbles](http://www.andrewbragdon.com/codebubbles_site.asp) / [🎥 video](https://youtu.be/PsPX0nElJ0k?t=346). The essential goal of this project is to make it easier for developers to see many fragments of code (or other information) at once based on collections of lightweight, editable fragments called bubbles.
 * [Debugger Canvas](https://www.microsoft.com/en-us/research/publication/debugger-canvas-industrial-experience-with-the-code-bubbles-paradigm/) / [🎥 video](https://www.youtube.com/watch?v=3p9XUwIlhJg). Code bubbles for debugging in Visual Studio.
 
@@ -67,7 +67,7 @@
 
 ## Live programming environments for music
 
-* [Orca](https://wiki.xxiivv.com/#orca) / [repo](https://github.com/hundredrabbits/orca) ⭐ 5,089 | 🐛 39 | 🌐 JavaScript | 📅 2025-11-16 / [🎥 video](https://www.youtube.com/watch?v=RaI_TuISSJE). Orca is an esoteric programming language, designed to create procedural sequencers.
+* [Orca](https://wiki.xxiivv.com/#orca) / [repo](https://github.com/hundredrabbits/orca) ⭐ 5,092 | 🐛 39 | 🌐 JavaScript | 📅 2025-11-16 / [🎥 video](https://www.youtube.com/watch?v=RaI_TuISSJE). Orca is an esoteric programming language, designed to create procedural sequencers.
 * [BespokeSynth](http://hihigogo.com/bespoke/) / [repo](https://github.com/awwbees/BespokeSynth) ⭐ 145 | 🐛 0 | 🌐 C++ | 📅 2026-09-02 / [🎥 video](https://www.youtube.com/watch?v=2-ApB_gnAJE) / [reddit](https://www.reddit.com/r/BespokeSynth/). A new modular DAW for OSX.
 
 ## Notebooks
@@ -87,9 +87,9 @@
 
 ## Other
 
-* [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,727 | 🐛 1,271 | 🌐 Haskell | 📅 2026-08-19. Next-generation programming platform.
+* [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,729 | 🐛 1,271 | 🌐 Haskell | 📅 2026-08-19. Next-generation programming platform.
 * [IPLD](https://ipld.io/) / [repo](https://github.com/ipld/ipld) ⭐ 1,349 | 🐛 82 | 🌐 Nunjucks | 📅 2026-09-08. IPLD is a set of standards and implementations for creating decentralized data-structures that are universally addressable and linkable. These structures will allow us to do for data what URLs and links did for HTML web pages.
-* [Chorus](http://www.chorus-home.org/) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#subtextchorus) ⭐ 376 | 🐛 5 | 📅 2024-06-26 / [🎥 video](https://vimeo.com/179904952). Exploring the middle ground between spreadsheets and programming.
+* [Chorus](http://www.chorus-home.org/) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#subtextchorus) ⭐ 377 | 🐛 5 | 📅 2024-06-26 / [🎥 video](https://vimeo.com/179904952). Exploring the middle ground between spreadsheets and programming.
 * [xoL](http://xzzulz.github.io/xoL/) / [repo](https://github.com/xzzulz/xra9) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-14 / [📚 Concept design](http://xzzulz.github.io/xoL/presentation.html). Graphics based programming language.
 * CDG Labs 💀 / [Github](https://github.com/cdglabs).
 * [Darklang](https://darklang.com/) / [blog](https://blog.darklang.com). We want to make it possible to build a complete scalable app in an afternoon.
@@ -102,7 +102,7 @@
 
 ## Projectional Editors
 
-* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,658 | 🐛 7 | 🌐 JetBrains MPS | 📅 2026-09-13. Create your own Domain Specific Language.
+* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,658 | 🐛 7 | 🌐 JetBrains MPS | 📅 2026-09-14. Create your own Domain Specific Language.
 * Moonchild / [repo](https://github.com/harc/moonchild) ⭐ 202 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-29 / [🎥 5-minute highlight reel](https://vimeo.com/106578509) [🎥 15-minute demo of Moonchild](https://vimeo.com/106498564). It's a toolkit for experimenting with new kinds of programming interfaces. It's based on CodeMirror, a web-based text editor. Moonchild adds a framework which makes it easy to create plugins which modify and extend the source code presentation.
 * [ProjecturEd](http://projectured.org/) / [repo](https://github.com/projectured/projectured) ⚠️ Archived. General purpose projectional editor written in Common Lisp.
 * [Envision](https://www.pm.inf.ethz.ch/research/envision.html) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 96 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
@@ -111,7 +111,7 @@
 ## Semantic Editors
 
 * [Lamdu](http://www.lamdu.org/) / [repo](https://github.com/lamdu/lamdu) ⭐ 1,899 | 🐛 25 | 🌐 Haskell | 📅 2026-08-21. An open source live programming environment.
-* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,151 | 🐛 471 | 🌐 Reason | 📅 2026-09-13. Live functional programming environment featuring typed holes.
+* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,151 | 🐛 478 | 🌐 Reason | 📅 2026-09-14. Live functional programming environment featuring typed holes.
 * [Fructure](https://fructure-editor.tumblr.com) / [repo](https://github.com/disconcision/fructure) ⭐ 506 | 🐛 16 | 🌐 Racket | 📅 2024-01-27 / [🎥 demo](https://www.youtube.com/watch?v=CnbVCNIh1NA). A structured interaction engine.
 * [Envision](http://dimitar-asenov.github.io/Envision/) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 96 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
 * [Syntactor](https://gregoor.github.io/syntactor) / [repo](https://github.com/Gregoor/syntactor) ⚠️ Archived. A JSON editor for editing data instead of syntax.
@@ -138,7 +138,7 @@
 
 ## State machines/State charts
 
-* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,111 | 🐛 125 | 🌐 TypeScript | 📅 2026-09-12. State machines and statecharts for the modern web.
+* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,114 | 🐛 125 | 🌐 TypeScript | 📅 2026-09-14. State machines and statecharts for the modern web.
 * [InterState](http://interstate.from.so/) / [repo](https://github.com/soney/interstate) ⭐ 52 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-13 / [🎥 video](https://www.youtube.com/watch?v=M--9jsuDZis) / [paper](http://from.so/p/interstate.pdf). InterState is a programming language and environment that addresses the challenges of writing and reusing user interface code. InterState represents interactive behaviors clearly and concisely using a combination of novel forms of state machines and constraints.
 * [Sketch.systems](https://sketch.systems). Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 
@@ -171,4 +171,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
