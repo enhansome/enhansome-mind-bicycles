@@ -42,8 +42,8 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T17:50:32Z",
-            "open_issues": 215,
+            "last_commit": "2026-09-15T17:37:36Z",
+            "open_issues": 230,
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 295,
@@ -325,7 +325,7 @@
             "open_issues": 1271,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6729,
+            "stars": 6730,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -424,11 +424,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T17:04:38Z",
+            "last_commit": "2026-09-15T17:04:47Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1658,
+            "stars": 1659,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -545,11 +545,11 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-09-14T18:32:15Z",
-            "open_issues": 478,
+            "last_commit": "2026-09-15T17:12:09Z",
+            "open_issues": 461,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1151,
+            "stars": 1153,
             "topics": [
               "editor",
               "elm",
@@ -785,11 +785,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T15:54:40Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-15T15:38:43Z",
+            "open_issues": 126,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30114,
+            "stars": 30115,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -857,7 +857,7 @@
             "open_issues": 12,
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12252,
+            "stars": 12255,
             "topics": [
               "dataflow-programming",
               "flow-based-programming",
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:32:22.709Z",
+    "last_updated": "2026-09-15T17:38:36.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
