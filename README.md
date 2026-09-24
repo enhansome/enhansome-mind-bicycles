@@ -40,7 +40,7 @@
 ## Datalog Inspired Environments
 
 * [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) ⭐ 7,222 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve) ⭐ 377 | 🐛 5 | 📅 2024-06-26. Programming designed for humans.
-* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 296 | 🐛 232 | 🌐 Rust | 📅 2026-09-23. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
+* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 296 | 🐛 232 | 🌐 Rust | 📅 2026-09-24. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
 
 ## Debugging Tools
 
@@ -102,7 +102,7 @@
 
 ## Projectional Editors
 
-* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,660 | 🐛 7 | 🌐 JetBrains MPS | 📅 2026-09-23. Create your own Domain Specific Language.
+* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,660 | 🐛 7 | 🌐 JetBrains MPS | 📅 2026-09-24. Create your own Domain Specific Language.
 * Moonchild / [repo](https://github.com/harc/moonchild) ⭐ 202 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-29 / [🎥 5-minute highlight reel](https://vimeo.com/106578509) [🎥 15-minute demo of Moonchild](https://vimeo.com/106498564). It's a toolkit for experimenting with new kinds of programming interfaces. It's based on CodeMirror, a web-based text editor. Moonchild adds a framework which makes it easy to create plugins which modify and extend the source code presentation.
 * [ProjecturEd](http://projectured.org/) / [repo](https://github.com/projectured/projectured) ⚠️ Archived. General purpose projectional editor written in Common Lisp.
 * [Envision](https://www.pm.inf.ethz.ch/research/envision.html) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 96 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
@@ -111,7 +111,7 @@
 ## Semantic Editors
 
 * [Lamdu](http://www.lamdu.org/) / [repo](https://github.com/lamdu/lamdu) ⭐ 1,898 | 🐛 25 | 🌐 Haskell | 📅 2026-08-21. An open source live programming environment.
-* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,156 | 🐛 457 | 🌐 Reason | 📅 2026-09-23. Live functional programming environment featuring typed holes.
+* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,157 | 🐛 459 | 🌐 Reason | 📅 2026-09-24. Live functional programming environment featuring typed holes.
 * [Fructure](https://fructure-editor.tumblr.com) / [repo](https://github.com/disconcision/fructure) ⭐ 507 | 🐛 16 | 🌐 Racket | 📅 2024-01-27 / [🎥 demo](https://www.youtube.com/watch?v=CnbVCNIh1NA). A structured interaction engine.
 * [Envision](http://dimitar-asenov.github.io/Envision/) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 96 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
 * [Syntactor](https://gregoor.github.io/syntactor) / [repo](https://github.com/Gregoor/syntactor) ⚠️ Archived. A JSON editor for editing data instead of syntax.
@@ -138,16 +138,16 @@
 
 ## State machines/State charts
 
-* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,155 | 🐛 132 | 🌐 TypeScript | 📅 2026-09-23. State machines and statecharts for the modern web.
+* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,161 | 🐛 137 | 🌐 TypeScript | 📅 2026-09-24. State machines and statecharts for the modern web.
 * [InterState](http://interstate.from.so/) / [repo](https://github.com/soney/interstate) ⭐ 52 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-20 / [🎥 video](https://www.youtube.com/watch?v=M--9jsuDZis) / [paper](http://from.so/p/interstate.pdf). InterState is a programming language and environment that addresses the challenges of writing and reusing user interface code. InterState represents interactive behaviors clearly and concisely using a combination of novel forms of state machines and constraints.
 * [Sketch.systems](https://sketch.systems). Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 
 ## Visual Programming with Nodes
 
-* [rete.js](https://rete.js.org) / [repo](https://github.com/retejs/rete) ⭐ 12,271 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-13. JavaScript framework for visual programming and creating node editor.
+* [rete.js](https://rete.js.org) / [repo](https://github.com/retejs/rete) ⭐ 12,274 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-13. JavaScript framework for visual programming and creating node editor.
 * [Enso](https://enso.org/) / [repo](https://github.com/enso-org/enso) ⭐ 7,441 | 🐛 325 | 🌐 Java | 📅 2026-08-10. Formerly Luna. Hybrid visual and textual functional programming for data processing.
 * [NoFlo](https://noflojs.org/) / [repo](https://github.com/noflo/noflo) ⭐ 3,552 | 🐛 29 | 🌐 JavaScript | 📅 2026-07-05. Flow-based programming for JavaScript.
-* SwiftVPL / [repo](https://github.com/NathanFlurry/VisualProgrammingLanguage) ⭐ 1,208 | 🐛 1 | 🌐 Swift | 📅 2026-03-11 / [🎥 video](https://www.youtube.com/watch?v=BNWC_OF5Q-Y). A visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
+* SwiftVPL / [repo](https://github.com/NathanFlurry/VisualProgrammingLanguage) ⭐ 1,207 | 🐛 1 | 🌐 Swift | 📅 2026-03-11 / [🎥 video](https://www.youtube.com/watch?v=BNWC_OF5Q-Y). A visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
 * Glance / [repo](https://github.com/rgleichman/glance) ⭐ 735 | 🐛 4 | 🌐 Haskell | 📅 2022-03-20. A visual Haskell.
 * [Viskell](https://github.com/viskell/viskell/blob/master/viskell-nlfpday.pdf) ⭐ 678 | 🐛 22 | 🌐 Java | 📅 2017-04-19 / [repo](https://github.com/viskell/viskell) ⭐ 678 | 🐛 22 | 🌐 Java | 📅 2017-04-19. Visual programming meets Haskell.
 * [Vlojure](https://vlojure.io) / [repo](https://github.com/Ella-Hoeppner/Vlojure) ⭐ 145 | 🐛 1 | 🌐 Clojure | 📅 2022-02-03 / [🎥 video](https://www.youtube.com/watch?v=1OcAUhe3E1E). A visual programming interface for ClojureScript.
@@ -171,4 +171,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
