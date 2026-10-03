@@ -42,7 +42,7 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:05:36Z",
+            "last_commit": "2026-10-03T14:15:16Z",
             "open_issues": 232,
             "owner": "mech-lang",
             "repo": "mech",
@@ -84,7 +84,7 @@
             "open_issues": 40,
             "owner": "cdglabs",
             "repo": "apparatus",
-            "stars": 1052,
+            "stars": 1053,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -182,7 +182,7 @@
             "open_issues": 1,
             "owner": "bijection",
             "repo": "g9",
-            "stars": 1974,
+            "stars": 1973,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -325,7 +325,7 @@
             "open_issues": 1293,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6741,
+            "stars": 6743,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -424,7 +424,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T21:04:30Z",
+            "last_commit": "2026-10-03T17:03:54Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -545,8 +545,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:02:53Z",
-            "open_issues": 488,
+            "last_commit": "2026-10-03T17:03:28Z",
+            "open_issues": 484,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1158,
@@ -785,11 +785,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T04:18:00Z",
-            "open_issues": 123,
+            "last_commit": "2026-10-03T14:24:59Z",
+            "open_issues": 120,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30222,
+            "stars": 30225,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -857,7 +857,7 @@
             "open_issues": 11,
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12283,
+            "stars": 12284,
             "topics": [
               "dataflow-programming",
               "flow-based-programming",
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:56:23.254Z",
+    "last_updated": "2026-10-03T17:12:18.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
