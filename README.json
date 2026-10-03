@@ -42,7 +42,7 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:32:59Z",
+            "last_commit": "2026-10-03T04:05:36Z",
             "open_issues": 232,
             "owner": "mech-lang",
             "repo": "mech",
@@ -325,7 +325,7 @@
             "open_issues": 1293,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6742,
+            "stars": 6741,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -424,7 +424,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:04:59Z",
+            "last_commit": "2026-10-02T21:04:30Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -521,7 +521,7 @@
             "open_issues": 25,
             "owner": "lamdu",
             "repo": "lamdu",
-            "stars": 1899,
+            "stars": 1894,
             "topics": [
               "integrated-development-environment",
               "programmer-tool",
@@ -545,8 +545,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-02T17:56:06Z",
-            "open_issues": 484,
+            "last_commit": "2026-10-03T02:02:53Z",
+            "open_issues": 488,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1158,
@@ -633,7 +633,7 @@
         {
           "node_type": "item",
           "title": "Omni / repo",
-          "description": ".",
+          "description": "daniel-kun/omni",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -694,7 +694,7 @@
             "open_issues": 64,
             "owner": "getguesstimate",
             "repo": "guesstimate-app",
-            "stars": 2392,
+            "stars": 2393,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -785,11 +785,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:02:08Z",
+            "last_commit": "2026-10-03T04:18:00Z",
             "open_issues": 123,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30218,
+            "stars": 30222,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -1008,7 +1008,7 @@
             "open_issues": 22,
             "owner": "viskell",
             "repo": "viskell",
-            "stars": 678,
+            "stars": 675,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -1121,7 +1121,7 @@
         {
           "node_type": "item",
           "title": "Visual Programming Codex",
-          "description": null,
+          "description": "ivyreese/visual-programming-codex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1142,7 +1142,7 @@
         {
           "node_type": "item",
           "title": "Programming Languages for Enthusiasts",
-          "description": null,
+          "description": "prathyvsh/pl-catalog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1163,7 +1163,7 @@
         {
           "node_type": "item",
           "title": "Glance's Related Work",
-          "description": null,
+          "description": "rgleichman/glance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1219,7 +1219,7 @@
         {
           "node_type": "item",
           "title": "Networked Notebook Catalogue",
-          "description": null,
+          "description": "prathyvsh/networked-notebooks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:20:48.248Z",
+    "last_updated": "2026-10-03T04:56:23.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
