@@ -42,7 +42,7 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T14:15:16Z",
+            "last_commit": "2026-10-04T14:24:25Z",
             "open_issues": 232,
             "owner": "mech-lang",
             "repo": "mech",
@@ -209,7 +209,7 @@
             "open_issues": 39,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5106,
+            "stars": 5107,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -237,7 +237,7 @@
             "open_issues": 0,
             "owner": "awwbees",
             "repo": "BespokeSynth",
-            "stars": 145,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -424,7 +424,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T17:03:54Z",
+            "last_commit": "2026-10-04T17:03:57Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -545,7 +545,7 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-03T17:03:28Z",
+            "last_commit": "2026-10-04T17:23:29Z",
             "open_issues": 484,
             "owner": "hazelgrove",
             "repo": "hazel",
@@ -785,11 +785,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T14:24:59Z",
-            "open_issues": 120,
+            "last_commit": "2026-10-04T15:05:42Z",
+            "open_issues": 121,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30225,
+            "stars": 30236,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -826,8 +826,8 @@
             "id": 4950520,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T11:13:01Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-04T11:03:20Z",
+            "open_issues": 14,
             "owner": "soney",
             "repo": "interstate",
             "stars": 52,
@@ -857,7 +857,7 @@
             "open_issues": 11,
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12284,
+            "stars": 12285,
             "topics": [
               "dataflow-programming",
               "flow-based-programming",
@@ -885,7 +885,7 @@
             "open_issues": 326,
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7441,
+            "stars": 7440,
             "topics": [
               "compiler",
               "enso",
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:12:18.462Z",
+    "last_updated": "2026-10-04T17:26:51.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
