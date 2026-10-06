@@ -40,7 +40,7 @@
 ## Datalog Inspired Environments
 
 * [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) ⭐ 7,223 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20 / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve) ⭐ 378 | 🐛 5 | 📅 2024-06-26. Programming designed for humans.
-* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 297 | 🐛 205 | 🌐 Rust | 📅 2026-10-06. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
+* [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech) ⭐ 297 | 🐛 203 | 🌐 Rust | 📅 2026-10-06. Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
 
 ## Debugging Tools
 
@@ -63,7 +63,7 @@
 
 ## Interactive visualizations
 
-* [g9](http://omrelli.ug/g9/) / [repo](https://github.com/bijection/g9) ⭐ 1,973 | 🐛 1 | 🌐 JavaScript | 📅 2025-06-26. Automatically interactive graphics.
+* [g9](http://omrelli.ug/g9/) / [repo](https://github.com/bijection/g9) ⭐ 1,972 | 🐛 1 | 🌐 JavaScript | 📅 2025-06-26. Automatically interactive graphics.
 
 ## Live programming environments for music
 
@@ -88,7 +88,7 @@
 ## Other
 
 * [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,743 | 🐛 1,293 | 🌐 Haskell | 📅 2026-10-05. Next-generation programming platform.
-* [IPLD](https://ipld.io/) / [repo](https://github.com/ipld/ipld) ⭐ 1,349 | 🐛 81 | 🌐 Nunjucks | 📅 2026-10-02. IPLD is a set of standards and implementations for creating decentralized data-structures that are universally addressable and linkable. These structures will allow us to do for data what URLs and links did for HTML web pages.
+* [IPLD](https://ipld.io/) / [repo](https://github.com/ipld/ipld) ⭐ 1,348 | 🐛 81 | 🌐 Nunjucks | 📅 2026-10-02. IPLD is a set of standards and implementations for creating decentralized data-structures that are universally addressable and linkable. These structures will allow us to do for data what URLs and links did for HTML web pages.
 * [Chorus](http://www.chorus-home.org/) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#subtextchorus) ⭐ 378 | 🐛 5 | 📅 2024-06-26 / [🎥 video](https://vimeo.com/179904952). Exploring the middle ground between spreadsheets and programming.
 * [xoL](http://xzzulz.github.io/xoL/) / [repo](https://github.com/xzzulz/xra9) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-14 / [📚 Concept design](http://xzzulz.github.io/xoL/presentation.html). Graphics based programming language.
 * CDG Labs 💀 / [Github](https://github.com/cdglabs).
@@ -138,7 +138,7 @@
 
 ## State machines/State charts
 
-* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,241 | 🐛 124 | 🌐 TypeScript | 📅 2026-10-06. State machines and statecharts for the modern web.
+* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,247 | 🐛 124 | 🌐 TypeScript | 📅 2026-10-06. State machines and statecharts for the modern web.
 * [InterState](http://interstate.from.so/) / [repo](https://github.com/soney/interstate) ⭐ 52 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-04 / [🎥 video](https://www.youtube.com/watch?v=M--9jsuDZis) / [paper](http://from.so/p/interstate.pdf). InterState is a programming language and environment that addresses the challenges of writing and reusing user interface code. InterState represents interactive behaviors clearly and concisely using a combination of novel forms of state machines and constraints.
 * [Sketch.systems](https://sketch.systems). Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 

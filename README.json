@@ -42,8 +42,8 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:29:08Z",
-            "open_issues": 205,
+            "last_commit": "2026-10-06T15:46:09Z",
+            "open_issues": 203,
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 297,
@@ -182,7 +182,7 @@
             "open_issues": 1,
             "owner": "bijection",
             "repo": "g9",
-            "stars": 1973,
+            "stars": 1972,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -352,7 +352,7 @@
             "open_issues": 81,
             "owner": "ipld",
             "repo": "ipld",
-            "stars": 1349,
+            "stars": 1348,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -424,7 +424,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:04:21Z",
+            "last_commit": "2026-10-06T17:04:33Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -545,7 +545,7 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-06T00:19:38Z",
+            "last_commit": "2026-10-06T18:45:44Z",
             "open_issues": 486,
             "owner": "hazelgrove",
             "repo": "hazel",
@@ -785,11 +785,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:48:22Z",
+            "last_commit": "2026-10-06T13:11:36Z",
             "open_issues": 124,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30241,
+            "stars": 30247,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:58:25.471Z",
+    "last_updated": "2026-10-06T18:52:40.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
