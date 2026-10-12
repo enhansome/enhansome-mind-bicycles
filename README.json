@@ -42,11 +42,11 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T17:50:34Z",
+            "last_commit": "2026-10-12T18:19:55Z",
             "open_issues": 206,
             "owner": "mech-lang",
             "repo": "mech",
-            "stars": 298,
+            "stars": 299,
             "topics": [
               "compiler",
               "data-processing",
@@ -134,7 +134,7 @@
             "open_issues": 0,
             "owner": "szymonkaliski",
             "repo": "dacein",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -233,7 +233,7 @@
             "id": 412262975,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T04:15:44Z",
+            "last_commit": "2026-10-12T03:08:44Z",
             "open_issues": 0,
             "owner": "awwbees",
             "repo": "BespokeSynth",
@@ -325,7 +325,7 @@
             "open_issues": 1293,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6755,
+            "stars": 6756,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -424,8 +424,8 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T17:03:46Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-12T21:04:18Z",
+            "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
             "stars": 1660,
@@ -545,11 +545,11 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-11T17:54:02Z",
-            "open_issues": 502,
+            "last_commit": "2026-10-12T20:45:02Z",
+            "open_issues": 508,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1161,
+            "stars": 1162,
             "topics": [
               "editor",
               "elm",
@@ -577,7 +577,7 @@
             "open_issues": 16,
             "owner": "disconcision",
             "repo": "fructure",
-            "stars": 507,
+            "stars": 508,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -785,11 +785,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T14:36:24Z",
+            "last_commit": "2026-10-12T17:03:25Z",
             "open_issues": 121,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30294,
+            "stars": 30293,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -857,7 +857,7 @@
             "open_issues": 11,
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12290,
+            "stars": 12291,
             "topics": [
               "dataflow-programming",
               "flow-based-programming",
@@ -915,8 +915,8 @@
             "id": 1853010,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-10T22:25:18Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-12T17:51:59Z",
+            "open_issues": 14,
             "owner": "noflo",
             "repo": "noflo",
             "stars": 3555,
@@ -1008,7 +1008,7 @@
             "open_issues": 22,
             "owner": "viskell",
             "repo": "viskell",
-            "stars": 675,
+            "stars": 676,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:00:23.354Z",
+    "last_updated": "2026-10-12T21:42:00.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
