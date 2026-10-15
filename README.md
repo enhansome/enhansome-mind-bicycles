@@ -51,7 +51,7 @@
 ## Direct Manipulation Graphics Editors
 
 * [Apparatus](http://aprt.us/) / [repo](https://github.com/cdglabs/apparatus) ⭐ 1,055 | 🐛 40 | 🌐 CoffeeScript | 📅 2023-06-30 / [🎥 video](https://www.youtube.com/watch?v=i3Xack9ufYk). A hybrid graphics editor and programming environment for creating interactive diagrams.
-* [sketch-n-sketch](http://ravichugh.github.io/sketch-n-sketch/) / [repo](https://github.com/ravichugh/sketch-n-sketch) ⭐ 568 | 🐛 15 | 🌐 Elm | 📅 2024-06-02. Direct Manipulation Programming for HTML/SVG.
+* [sketch-n-sketch](http://ravichugh.github.io/sketch-n-sketch/) / [repo](https://github.com/ravichugh/sketch-n-sketch) ⭐ 569 | 🐛 15 | 🌐 Elm | 📅 2024-06-02. Direct Manipulation Programming for HTML/SVG.
 * [Dacein](https://szymonkaliski.github.io/dacein/) / [repo](https://github.com/szymonkaliski/dacein) ⭐ 73 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-06 / [article](https://szymonkaliski.com/log/2019-03-01-building-dacein/). Experimental creative coding IDE.
 * [Vogo](http://mgrf.de/vogo/) / [repo](https://github.com/rbyte/Vogo) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-12. An experimental direct manipulation interface for Turtle Graphics.
 * [Recursive Drawing](http://recursivedrawing.com/) / [🎥 video](https://vimeo.com/41822151). An exploration of user interface ideas towards the development of a spatially-oriented programming environment.
@@ -67,8 +67,8 @@
 
 ## Live programming environments for music
 
-* [Orca](https://wiki.xxiivv.com/#orca) / [repo](https://github.com/hundredrabbits/orca) ⭐ 5,114 | 🐛 40 | 🌐 JavaScript | 📅 2025-11-16 / [🎥 video](https://www.youtube.com/watch?v=RaI_TuISSJE). Orca is an esoteric programming language, designed to create procedural sequencers.
-* [BespokeSynth](http://hihigogo.com/bespoke/) / [repo](https://github.com/awwbees/BespokeSynth) ⭐ 148 | 🐛 0 | 🌐 C++ | 📅 2026-10-12 / [🎥 video](https://www.youtube.com/watch?v=2-ApB_gnAJE) / [reddit](https://www.reddit.com/r/BespokeSynth/). A new modular DAW for OSX.
+* [Orca](https://wiki.xxiivv.com/#orca) / [repo](https://github.com/hundredrabbits/orca) ⭐ 5,115 | 🐛 40 | 🌐 JavaScript | 📅 2025-11-16 / [🎥 video](https://www.youtube.com/watch?v=RaI_TuISSJE). Orca is an esoteric programming language, designed to create procedural sequencers.
+* [BespokeSynth](http://hihigogo.com/bespoke/) / [repo](https://github.com/awwbees/BespokeSynth) ⭐ 148 | 🐛 0 | 🌐 C++ | 📅 2026-10-14 / [🎥 video](https://www.youtube.com/watch?v=2-ApB_gnAJE) / [reddit](https://www.reddit.com/r/BespokeSynth/). A new modular DAW for OSX.
 
 ## Notebooks
 
@@ -87,7 +87,7 @@
 
 ## Other
 
-* [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,758 | 🐛 1,293 | 🌐 Haskell | 📅 2026-10-14. Next-generation programming platform.
+* [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison) ⭐ 6,758 | 🐛 1,293 | 🌐 Haskell | 📅 2026-10-15. Next-generation programming platform.
 * [IPLD](https://ipld.io/) / [repo](https://github.com/ipld/ipld) ⭐ 1,347 | 🐛 81 | 🌐 Nunjucks | 📅 2026-10-02. IPLD is a set of standards and implementations for creating decentralized data-structures that are universally addressable and linkable. These structures will allow us to do for data what URLs and links did for HTML web pages.
 * [Chorus](http://www.chorus-home.org/) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#subtextchorus) ⭐ 378 | 🐛 5 | 📅 2024-06-26 / [🎥 video](https://vimeo.com/179904952). Exploring the middle ground between spreadsheets and programming.
 * [xoL](http://xzzulz.github.io/xoL/) / [repo](https://github.com/xzzulz/xra9) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-14 / [📚 Concept design](http://xzzulz.github.io/xoL/presentation.html). Graphics based programming language.
@@ -102,7 +102,7 @@
 
 ## Projectional Editors
 
-* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,660 | 🐛 6 | 🌐 JetBrains MPS | 📅 2026-10-14. Create your own Domain Specific Language.
+* [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS) ⭐ 1,660 | 🐛 6 | 🌐 JetBrains MPS | 📅 2026-10-15. Create your own Domain Specific Language.
 * Moonchild / [repo](https://github.com/harc/moonchild) ⭐ 202 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-29 / [🎥 5-minute highlight reel](https://vimeo.com/106578509) [🎥 15-minute demo of Moonchild](https://vimeo.com/106498564). It's a toolkit for experimenting with new kinds of programming interfaces. It's based on CodeMirror, a web-based text editor. Moonchild adds a framework which makes it easy to create plugins which modify and extend the source code presentation.
 * [ProjecturEd](http://projectured.org/) / [repo](https://github.com/projectured/projectured) ⚠️ Archived. General purpose projectional editor written in Common Lisp.
 * [Envision](https://www.pm.inf.ethz.ch/research/envision.html) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 96 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
@@ -111,7 +111,7 @@
 ## Semantic Editors
 
 * [Lamdu](http://www.lamdu.org/) / [repo](https://github.com/lamdu/lamdu) ⭐ 1,894 | 🐛 25 | 🌐 Haskell | 📅 2026-09-25. An open source live programming environment.
-* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,162 | 🐛 510 | 🌐 Reason | 📅 2026-10-14. Live functional programming environment featuring typed holes.
+* [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel) ⭐ 1,162 | 🐛 510 | 🌐 Reason | 📅 2026-10-15. Live functional programming environment featuring typed holes.
 * [Fructure](https://fructure-editor.tumblr.com) / [repo](https://github.com/disconcision/fructure) ⭐ 508 | 🐛 16 | 🌐 Racket | 📅 2024-01-27 / [🎥 demo](https://www.youtube.com/watch?v=CnbVCNIh1NA). A structured interaction engine.
 * [Envision](http://dimitar-asenov.github.io/Envision/) / [repo](https://github.com/dimitar-asenov/Envision) ⭐ 96 | 🐛 29 | 🌐 C++ | 📅 2022-02-19. A next-generation IDE that makes programming more efficient.
 * [Syntactor](https://gregoor.github.io/syntactor) / [repo](https://github.com/Gregoor/syntactor) ⚠️ Archived. A JSON editor for editing data instead of syntax.
@@ -138,14 +138,14 @@
 
 ## State machines/State charts
 
-* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,296 | 🐛 125 | 🌐 TypeScript | 📅 2026-10-14. State machines and statecharts for the modern web.
+* [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate) ⭐ 30,301 | 🐛 124 | 🌐 TypeScript | 📅 2026-10-15. State machines and statecharts for the modern web.
 * [InterState](http://interstate.from.so/) / [repo](https://github.com/soney/interstate) ⭐ 52 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-11 / [🎥 video](https://www.youtube.com/watch?v=M--9jsuDZis) / [paper](http://from.so/p/interstate.pdf). InterState is a programming language and environment that addresses the challenges of writing and reusing user interface code. InterState represents interactive behaviors clearly and concisely using a combination of novel forms of state machines and constraints.
 * [Sketch.systems](https://sketch.systems). Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 
 ## Visual Programming with Nodes
 
-* [rete.js](https://rete.js.org) / [repo](https://github.com/retejs/rete) ⭐ 12,290 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-27. JavaScript framework for visual programming and creating node editor.
-* [Enso](https://enso.org/) / [repo](https://github.com/enso-org/enso) ⭐ 7,443 | 🐛 326 | 🌐 Java | 📅 2026-08-10. Formerly Luna. Hybrid visual and textual functional programming for data processing.
+* [rete.js](https://rete.js.org) / [repo](https://github.com/retejs/rete) ⭐ 12,293 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-27. JavaScript framework for visual programming and creating node editor.
+* [Enso](https://enso.org/) / [repo](https://github.com/enso-org/enso) ⭐ 7,442 | 🐛 326 | 🌐 Java | 📅 2026-08-10. Formerly Luna. Hybrid visual and textual functional programming for data processing.
 * [NoFlo](https://noflojs.org/) / [repo](https://github.com/noflo/noflo) ⭐ 3,556 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-14. Flow-based programming for JavaScript.
 * SwiftVPL / [repo](https://github.com/NathanFlurry/VisualProgrammingLanguage) ⭐ 1,209 | 🐛 1 | 🌐 Swift | 📅 2026-03-11 / [🎥 video](https://www.youtube.com/watch?v=BNWC_OF5Q-Y). A visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
 * Glance / [repo](https://github.com/rgleichman/glance) ⭐ 736 | 🐛 4 | 🌐 Haskell | 📅 2022-03-20. A visual Haskell.
@@ -171,4 +171,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
