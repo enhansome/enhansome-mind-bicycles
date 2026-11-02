@@ -42,7 +42,7 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T17:48:18Z",
+            "last_commit": "2026-11-02T21:40:11Z",
             "open_issues": 209,
             "owner": "mech-lang",
             "repo": "mech",
@@ -235,7 +235,7 @@
             "id": 412262975,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-31T12:47:06Z",
+            "last_commit": "2026-11-02T12:59:21Z",
             "open_issues": 0,
             "owner": "awwbees",
             "repo": "BespokeSynth",
@@ -350,8 +350,8 @@
             "id": 71267812,
             "language": "Nunjucks",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T15:02:51Z",
-            "open_issues": 82,
+            "last_commit": "2026-11-02T01:15:32Z",
+            "open_issues": 81,
             "owner": "ipld",
             "repo": "ipld",
             "stars": 1347,
@@ -375,7 +375,7 @@
             "open_issues": 5,
             "owner": "pel-daniel",
             "repo": "mind-bicycles",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "awesome-list",
               "future-of-programming"
@@ -426,11 +426,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T17:04:04Z",
+            "last_commit": "2026-11-02T21:04:41Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1663,
+            "stars": 1664,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -547,8 +547,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-31T23:09:11Z",
-            "open_issues": 549,
+            "last_commit": "2026-11-02T19:47:07Z",
+            "open_issues": 548,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1175,
@@ -787,11 +787,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T19:21:36Z",
+            "last_commit": "2026-11-02T18:55:01Z",
             "open_issues": 126,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30388,
+            "stars": 30403,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -1136,7 +1136,7 @@
             "open_issues": 128,
             "owner": "ivyreese",
             "repo": "visual-programming-codex",
-            "stars": 1505,
+            "stars": 1507,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:23:01.210Z",
+    "last_updated": "2026-11-02T22:16:15.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
@@ -1256,7 +1256,7 @@
       "open_issues": 5,
       "owner": "pel-daniel",
       "repo": "mind-bicycles",
-      "stars": 378,
+      "stars": 379,
       "topics": [
         "awesome-list",
         "future-of-programming"
