@@ -42,7 +42,7 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T18:17:58Z",
+            "last_commit": "2026-11-09T21:59:59Z",
             "open_issues": 210,
             "owner": "mech-lang",
             "repo": "mech",
@@ -86,7 +86,7 @@
             "open_issues": 40,
             "owner": "cdglabs",
             "repo": "apparatus",
-            "stars": 1056,
+            "stars": 1055,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -184,7 +184,7 @@
             "open_issues": 1,
             "owner": "bijection",
             "repo": "g9",
-            "stars": 1971,
+            "stars": 1974,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -211,7 +211,7 @@
             "open_issues": 40,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5136,
+            "stars": 5139,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -323,11 +323,11 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T00:50:25Z",
+            "last_commit": "2026-11-09T22:08:13Z",
             "open_issues": 1302,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6778,
+            "stars": 6782,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -426,11 +426,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T17:03:57Z",
+            "last_commit": "2026-11-09T21:04:47Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1668,
+            "stars": 1669,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -547,11 +547,11 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-11-08T17:21:10Z",
-            "open_issues": 572,
+            "last_commit": "2026-11-09T22:38:41Z",
+            "open_issues": 575,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1177,
+            "stars": 1193,
             "topics": [
               "editor",
               "elm",
@@ -787,11 +787,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T19:08:13Z",
-            "open_issues": 132,
+            "last_commit": "2026-11-09T22:03:25Z",
+            "open_issues": 141,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30424,
+            "stars": 30432,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -859,7 +859,7 @@
             "open_issues": 11,
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12308,
+            "stars": 12309,
             "topics": [
               "dataflow-programming",
               "flow-based-programming",
@@ -917,8 +917,8 @@
             "id": 1853010,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-08T02:26:34Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-08T21:33:40Z",
+            "open_issues": 1,
             "owner": "noflo",
             "repo": "noflo",
             "stars": 3558,
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:18:35.844Z",
+    "last_updated": "2026-11-09T22:57:17.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
