@@ -19,7 +19,7 @@
             "open_issues": 71,
             "owner": "witheve",
             "repo": "Eve",
-            "stars": 7224,
+            "stars": 7226,
             "topics": [
               "database",
               "eve",
@@ -42,8 +42,8 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T18:54:26Z",
-            "open_issues": 211,
+            "last_commit": "2026-11-16T22:42:40Z",
+            "open_issues": 212,
             "owner": "mech-lang",
             "repo": "mech",
             "stars": 308,
@@ -235,7 +235,7 @@
             "id": 412262975,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T17:07:31Z",
+            "last_commit": "2026-11-16T13:51:01Z",
             "open_issues": 0,
             "owner": "awwbees",
             "repo": "BespokeSynth",
@@ -323,11 +323,11 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T17:13:43Z",
-            "open_issues": 1295,
+            "last_commit": "2026-11-16T21:11:21Z",
+            "open_issues": 1255,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6792,
+            "stars": 6793,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -375,7 +375,7 @@
             "open_issues": 5,
             "owner": "pel-daniel",
             "repo": "mind-bicycles",
-            "stars": 379,
+            "stars": 380,
             "topics": [
               "awesome-list",
               "future-of-programming"
@@ -426,7 +426,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T17:04:02Z",
+            "last_commit": "2026-11-16T21:04:28Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -547,8 +547,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-11-15T19:05:52Z",
-            "open_issues": 578,
+            "last_commit": "2026-11-16T22:39:15Z",
+            "open_issues": 582,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1199,
@@ -787,11 +787,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-15T14:04:03Z",
-            "open_issues": 74,
+            "last_commit": "2026-11-16T17:11:26Z",
+            "open_issues": 72,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30474,
+            "stars": 30481,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -859,7 +859,7 @@
             "open_issues": 11,
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12315,
+            "stars": 12318,
             "topics": [
               "dataflow-programming",
               "flow-based-programming",
@@ -975,7 +975,7 @@
             "open_issues": 4,
             "owner": "rgleichman",
             "repo": "glance",
-            "stars": 736,
+            "stars": 737,
             "topics": [
               "cairo",
               "diagrams",
@@ -1178,7 +1178,7 @@
             "open_issues": 4,
             "owner": "rgleichman",
             "repo": "glance",
-            "stars": 736,
+            "stars": 737,
             "topics": [
               "cairo",
               "diagrams",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:19:45.399Z",
+    "last_updated": "2026-11-16T22:50:29.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
@@ -1256,7 +1256,7 @@
       "open_issues": 5,
       "owner": "pel-daniel",
       "repo": "mind-bicycles",
-      "stars": 379,
+      "stars": 380,
       "topics": [
         "awesome-list",
         "future-of-programming"
