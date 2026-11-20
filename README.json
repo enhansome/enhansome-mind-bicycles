@@ -42,7 +42,7 @@
             "id": 144608505,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T20:02:51Z",
+            "last_commit": "2026-11-20T20:35:36Z",
             "open_issues": 214,
             "owner": "mech-lang",
             "repo": "mech",
@@ -211,7 +211,7 @@
             "open_issues": 40,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5143,
+            "stars": 5144,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -323,7 +323,7 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T01:54:42Z",
+            "last_commit": "2026-11-20T13:21:37Z",
             "open_issues": 62,
             "owner": "unisonweb",
             "repo": "unison",
@@ -351,7 +351,7 @@
             "language": "Nunjucks",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T01:15:32Z",
-            "open_issues": 81,
+            "open_issues": 80,
             "owner": "ipld",
             "repo": "ipld",
             "stars": 1349,
@@ -426,7 +426,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T21:04:21Z",
+            "last_commit": "2026-11-20T21:00:29Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -547,8 +547,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-11-19T20:56:11Z",
-            "open_issues": 563,
+            "last_commit": "2026-11-20T20:40:38Z",
+            "open_issues": 557,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1198,
@@ -579,7 +579,7 @@
             "open_issues": 16,
             "owner": "disconcision",
             "repo": "fructure",
-            "stars": 509,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -787,11 +787,11 @@
             "id": 42455934,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T17:52:06Z",
-            "open_issues": 78,
+            "last_commit": "2026-11-20T20:10:13Z",
+            "open_issues": 76,
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30520,
+            "stars": 30523,
             "topics": [
               "actor-model",
               "background-jobs",
@@ -859,7 +859,7 @@
             "open_issues": 11,
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12317,
+            "stars": 12318,
             "topics": [
               "dataflow-programming",
               "flow-based-programming",
@@ -1136,7 +1136,7 @@
             "open_issues": 128,
             "owner": "ivyreese",
             "repo": "visual-programming-codex",
-            "stars": 1507,
+            "stars": 1508,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:49.653Z"
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:23:27.198Z",
+    "last_updated": "2026-11-20T21:00:30.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of future of programming projects",
